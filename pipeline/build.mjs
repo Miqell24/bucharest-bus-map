@@ -1128,6 +1128,7 @@ const metaLines = results.flatMap((r) => r.metaLines);
   // them is unreadable and kilometers long — display caps at 12 + a "+N" tail.
   // (`arr` stays complete: the frontend filters and highlights on it.)
   const PSET = MODES[0].mlineSet || new Set();
+  const TSET = new Set(MODES.flatMap((m) => [...(m.trolleySet || [])])); // trolleybus numbers
   const capList = (s) => {
     const a = s.split(', ');
     return a.length > 14 ? a.slice(0, 12).join(', ') + ' +' + (a.length - 12) : s;
@@ -1137,6 +1138,16 @@ const metaLines = results.flatMap((r) => r.metaLines);
     const arr = p.busLines ? [...p.lines.split(', '), ...p.busLines.split(', ')] : p.lines.split(', ');
     const baseProps = { lines: p.lines, color: p.color, mode: p.mode, arr, ...(p.metro ? { metro: 1 } : {}) };
     if (p.busLines) baseProps.busLines = p.busLines;
+    // mixed bus+trolleybus roadway: the label keeps the trolleybus numbers
+    // GREEN in a two-colour row (user 14.08.2026, Athens pattern) —
+    // all-trolleybus sets already come out green whole via colorOf
+    if (p.mode === 'bus' && TSET.size) {
+      const tl = arr.filter((l) => TSET.has(l));
+      if (tl.length && tl.length < arr.length) {
+        baseProps.tLines = tl.join(', ');
+        baseProps.ntLines = arr.filter((l) => !TSET.has(l)).join(', ');
+      }
+    }
     // mixed paratransit corridors carry both halves so the frontend can show
     // only the relevant one when a single network is toggled on
     if (p.mode === 'bus' && p.mline === 'mix') {
