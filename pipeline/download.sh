@@ -32,10 +32,20 @@ PYEOF
 }
 
 # 1) GTFS — the regional bundle (stable URL, refreshed in place by TPBI)
+#    Checked 2026-09-01: gtfs.tpbi.ro resolves and answers on port 443, but its
+#    TLS certificate has EXPIRED, so curl refuses the connection and the whole
+#    download step dies. That is the operator's problem to fix, not something to
+#    paper over with --insecure: an expired certificate means the transfer is no
+#    longer authenticated. The MobilityDatabase keeps an open mirror of exactly
+#    this feed (mdb-2098), so the download falls through to it and says so.
 if [ ! -f data/gtfs/routes.txt ]; then
   echo "== TPBI GTFS (Bucharest region) =="
-  curl -fL --retry 3 --max-time 600 -o data/bucharest-region.zip \
-    "https://gtfs.tpbi.ro/regional/BUCHAREST-REGION.zip"
+  if ! curl -fL --retry 3 --max-time 600 -o data/bucharest-region.zip \
+    "https://gtfs.tpbi.ro/regional/BUCHAREST-REGION.zip"; then
+    echo "-- gtfs.tpbi.ro unreachable (expired TLS certificate?) — falling back to the MobilityDatabase mirror"
+    curl -fL --retry 3 --max-time 600 -o data/bucharest-region.zip \
+      "https://files.mobilitydatabase.org/mdb-2098/latest.zip"
+  fi
   unzip -o data/bucharest-region.zip -d data/gtfs
 fi
 
