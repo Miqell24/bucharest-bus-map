@@ -7976,6 +7976,906 @@
       "rank": 1
     },
     {
+      "line": "1",
+      "mode": "tram",
+      "color": "#d6212b",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Bd. Banu Manta",
+          "variants": 1,
+          "tripCount": 415,
+          "stops": 29,
+          "lengthKm": 13.62,
+          "stats": {
+            "observations": 658,
+            "matched": 658,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.415023514957353,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Romprim",
+          "variants": 1,
+          "tripCount": 416,
+          "stops": 31,
+          "lengthKm": 13.52,
+          "stats": {
+            "observations": 490,
+            "matched": 490,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.265734122768877,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 3254
+          }
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "line": "5",
+      "mode": "tram",
+      "color": "#d6212b",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Pantelimon",
+          "variants": 1,
+          "tripCount": 329,
+          "stops": 25,
+          "lengthKm": 12.76,
+          "stats": {
+            "observations": 438,
+            "matched": 438,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.1188736782928916,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Aeroport Baneasa",
+          "variants": 1,
+          "tripCount": 308,
+          "stops": 25,
+          "lengthKm": 12.61,
+          "stats": {
+            "observations": 381,
+            "matched": 381,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.037395873080256,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "line": "7",
+      "mode": "tram",
+      "color": "#d6212b",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Piata Unirii",
+          "variants": 1,
+          "tripCount": 295,
+          "stops": 17,
+          "lengthKm": 7.3,
+          "stats": {
+            "observations": 243,
+            "matched": 243,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.0228079633565081,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "C.F.R. Progresul",
+          "variants": 1,
+          "tripCount": 295,
+          "stops": 17,
+          "lengthKm": 7.05,
+          "stats": {
+            "observations": 217,
+            "matched": 217,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.1778023841074658,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "line": "10",
+      "mode": "tram",
+      "color": "#d6212b",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Ghencea",
+          "variants": 1,
+          "tripCount": 434,
+          "stops": 21,
+          "lengthKm": 9.97,
+          "stats": {
+            "observations": 316,
+            "matched": 316,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.5928906046536293,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Romprim",
+          "variants": 1,
+          "tripCount": 435,
+          "stops": 21,
+          "lengthKm": 9.97,
+          "stats": {
+            "observations": 418,
+            "matched": 418,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.4501536500655954,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "line": "21",
+      "mode": "tram",
+      "color": "#d6212b",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Pasaj Colentina",
+          "variants": 1,
+          "tripCount": 519,
+          "stops": 14,
+          "lengthKm": 7.26,
+          "stats": {
+            "observations": 326,
+            "matched": 326,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.7903629528616218,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Piata Sf. Gheorghe",
+          "variants": 1,
+          "tripCount": 519,
+          "stops": 14,
+          "lengthKm": 7.13,
+          "stats": {
+            "observations": 321,
+            "matched": 321,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.3911533606280646,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "line": "23",
+      "mode": "tram",
+      "color": "#d6212b",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Faur",
+          "variants": 1,
+          "tripCount": 200,
+          "stops": 35,
+          "lengthKm": 14.46,
+          "stats": {
+            "observations": 465,
+            "matched": 465,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.2898252001409674,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Zetarilor",
+          "variants": 1,
+          "tripCount": 201,
+          "stops": 36,
+          "lengthKm": 14.32,
+          "stats": {
+            "observations": 456,
+            "matched": 456,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.995722929104671,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "line": "25",
+      "mode": "tram",
+      "color": "#d6212b",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Depoul Militari",
+          "variants": 1,
+          "tripCount": 450,
+          "stops": 34,
+          "lengthKm": 16.33,
+          "stats": {
+            "observations": 462,
+            "matched": 462,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.3665149563600416,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "C.F.R. Progresul",
+          "variants": 1,
+          "tripCount": 450,
+          "stops": 34,
+          "lengthKm": 16.04,
+          "stats": {
+            "observations": 429,
+            "matched": 429,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.121387768704286,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "line": "27",
+      "mode": "tram",
+      "color": "#d6212b",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Piata Unirii",
+          "variants": 1,
+          "tripCount": 194,
+          "stops": 21,
+          "lengthKm": 8.73,
+          "stats": {
+            "observations": 266,
+            "matched": 266,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.1906816863371148,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Faur",
+          "variants": 1,
+          "tripCount": 202,
+          "stops": 21,
+          "lengthKm": 8.72,
+          "stats": {
+            "observations": 295,
+            "matched": 295,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.3130029330225825,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "line": "32",
+      "mode": "tram",
+      "color": "#d6212b",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Piata Unirii",
+          "variants": 1,
+          "tripCount": 596,
+          "stops": 11,
+          "lengthKm": 5.37,
+          "stats": {
+            "observations": 79,
+            "matched": 79,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.267718323156679,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Depoul Alexandria",
+          "variants": 1,
+          "tripCount": 596,
+          "stops": 11,
+          "lengthKm": 5.3,
+          "stats": {
+            "observations": 101,
+            "matched": 101,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.3321616532904352,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "line": "41",
+      "mode": "tram",
+      "color": "#d6212b",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Ghencea",
+          "variants": 1,
+          "tripCount": 779,
+          "stops": 15,
+          "lengthKm": 9.72,
+          "stats": {
+            "observations": 387,
+            "matched": 387,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.920439207994986,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Piata Presei",
+          "variants": 1,
+          "tripCount": 779,
+          "stops": 15,
+          "lengthKm": 9.61,
+          "stats": {
+            "observations": 324,
+            "matched": 324,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.9159187946968738,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "line": "44",
+      "mode": "tram",
+      "color": "#d6212b",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Vasile Parvan",
+          "variants": 1,
+          "tripCount": 424,
+          "stops": 15,
+          "lengthKm": 4.67,
+          "stats": {
+            "observations": 184,
+            "matched": 184,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.2142859175838197,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Cartier Giulesti",
+          "variants": 1,
+          "tripCount": 426,
+          "stops": 17,
+          "lengthKm": 4.61,
+          "stats": {
+            "observations": 166,
+            "matched": 166,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.7601097372607102,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "line": "53",
+      "mode": "tram",
+      "color": "#d6212b",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Depoul Bucurestii Noi",
+          "variants": 1,
+          "tripCount": 314,
+          "stops": 7,
+          "lengthKm": 2.09,
+          "stats": {
+            "observations": 48,
+            "matched": 48,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.9532466307847771,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Mezes",
+          "variants": 1,
+          "tripCount": 314,
+          "stops": 7,
+          "lengthKm": 2.09,
+          "stats": {
+            "observations": 57,
+            "matched": 57,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.588671526213919,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "line": "54",
+      "mode": "tram",
+      "color": "#d6212b",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Piata Unirii",
+          "variants": 1,
+          "tripCount": 244,
+          "stops": 23,
+          "lengthKm": 10.14,
+          "stats": {
+            "observations": 294,
+            "matched": 294,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.240536838162519,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Sura Mare",
+          "variants": 1,
+          "tripCount": 242,
+          "stops": 24,
+          "lengthKm": 10.48,
+          "stats": {
+            "observations": 337,
+            "matched": 337,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.192244350260105,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "line": "M1",
+      "mode": "tram",
+      "color": "#F8C301",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Dristor 2",
+          "variants": 2,
+          "tripCount": 140,
+          "stops": 21,
+          "lengthKm": 27.68,
+          "stats": {
+            "observations": 1070,
+            "matched": 1049,
+            "noCandidates": 21,
+            "viterbiBreaks": 1,
+            "bridged": 0,
+            "rawStretchCount": 2,
+            "rawMeters": 320,
+            "meanError": 14.07944157823081,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Gara de Nord 1 (M1)",
+          "variants": 2,
+          "tripCount": 141,
+          "stops": 22,
+          "lengthKm": 29.21,
+          "stats": {
+            "observations": 1130,
+            "matched": 1075,
+            "noCandidates": 55,
+            "viterbiBreaks": 1,
+            "bridged": 0,
+            "rawStretchCount": 1,
+            "rawMeters": 20,
+            "meanError": 14.464224496760043,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "line": "M2",
+      "mode": "tram",
+      "color": "#495676",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Dimitrie Leonida",
+          "variants": 1,
+          "tripCount": 330,
+          "stops": 15,
+          "lengthKm": 19.15,
+          "stats": {
+            "observations": 687,
+            "matched": 680,
+            "noCandidates": 7,
+            "viterbiBreaks": 1,
+            "bridged": 0,
+            "rawStretchCount": 1,
+            "rawMeters": 20,
+            "meanError": 8.169019156996017,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Pipera",
+          "variants": 1,
+          "tripCount": 327,
+          "stops": 15,
+          "lengthKm": 19.15,
+          "stats": {
+            "observations": 687,
+            "matched": 680,
+            "noCandidates": 7,
+            "viterbiBreaks": 1,
+            "bridged": 0,
+            "rawStretchCount": 1,
+            "rawMeters": 20,
+            "meanError": 8.273154046238263,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "line": "M3",
+      "mode": "tram",
+      "color": "#DA251C",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Nicolae Grigorescu",
+          "variants": 1,
+          "tripCount": 272,
+          "stops": 15,
+          "lengthKm": 20.35,
+          "stats": {
+            "observations": 383,
+            "matched": 366,
+            "noCandidates": 17,
+            "viterbiBreaks": 1,
+            "bridged": 0,
+            "rawStretchCount": 1,
+            "rawMeters": 20,
+            "meanError": 15.746367618817548,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Anghel Saligny",
+          "variants": 1,
+          "tripCount": 274,
+          "stops": 15,
+          "lengthKm": 20.35,
+          "stats": {
+            "observations": 383,
+            "matched": 366,
+            "noCandidates": 17,
+            "viterbiBreaks": 1,
+            "bridged": 0,
+            "rawStretchCount": 1,
+            "rawMeters": 20,
+            "meanError": 14.918096036132052,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "line": "M4",
+      "mode": "tram",
+      "color": "#3C746B",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Gara de Nord 2 (M4)",
+          "variants": 1,
+          "tripCount": 266,
+          "stops": 8,
+          "lengthKm": 7.2,
+          "stats": {
+            "observations": 22,
+            "matched": 22,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 23.87910712911112,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Străulești",
+          "variants": 1,
+          "tripCount": 269,
+          "stops": 8,
+          "lengthKm": 7.2,
+          "stats": {
+            "observations": 35,
+            "matched": 35,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 20.340634303817588,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "line": "M5",
+      "mode": "tram",
+      "color": "#F7951E",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Râul Doamnei",
+          "variants": 3,
+          "tripCount": 144,
+          "stops": 9,
+          "lengthKm": 5.88,
+          "stats": {
+            "observations": 223,
+            "matched": 213,
+            "noCandidates": 10,
+            "viterbiBreaks": 1,
+            "bridged": 0,
+            "rawStretchCount": 1,
+            "rawMeters": 20,
+            "meanError": 14.943022663240244,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Eroilor",
+          "variants": 2,
+          "tripCount": 143,
+          "stops": 9,
+          "lengthKm": 5.9,
+          "stats": {
+            "observations": 223,
+            "matched": 213,
+            "noCandidates": 10,
+            "viterbiBreaks": 1,
+            "bridged": 0,
+            "rawStretchCount": 1,
+            "rawMeters": 20,
+            "meanError": 15.330039093692077,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 1
+    },
+    {
       "line": "N1",
       "mode": "bus",
       "color": "#000000",
@@ -9174,906 +10074,6 @@
         }
       ],
       "rank": 2
-    },
-    {
-      "line": "1",
-      "mode": "tram",
-      "color": "#d6212b",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Bd. Banu Manta",
-          "variants": 1,
-          "tripCount": 415,
-          "stops": 29,
-          "lengthKm": 13.62,
-          "stats": {
-            "observations": 658,
-            "matched": 658,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.415023514957353,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Romprim",
-          "variants": 1,
-          "tripCount": 416,
-          "stops": 31,
-          "lengthKm": 13.52,
-          "stats": {
-            "observations": 490,
-            "matched": 490,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.265734122768877,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 3254
-          }
-        }
-      ],
-      "rank": 1
-    },
-    {
-      "line": "5",
-      "mode": "tram",
-      "color": "#d6212b",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Pantelimon",
-          "variants": 1,
-          "tripCount": 329,
-          "stops": 25,
-          "lengthKm": 12.76,
-          "stats": {
-            "observations": 438,
-            "matched": 438,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.1188736782928916,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Aeroport Baneasa",
-          "variants": 1,
-          "tripCount": 308,
-          "stops": 25,
-          "lengthKm": 12.61,
-          "stats": {
-            "observations": 381,
-            "matched": 381,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.037395873080256,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 1
-    },
-    {
-      "line": "7",
-      "mode": "tram",
-      "color": "#d6212b",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Piata Unirii",
-          "variants": 1,
-          "tripCount": 295,
-          "stops": 17,
-          "lengthKm": 7.3,
-          "stats": {
-            "observations": 243,
-            "matched": 243,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.0228079633565081,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "C.F.R. Progresul",
-          "variants": 1,
-          "tripCount": 295,
-          "stops": 17,
-          "lengthKm": 7.05,
-          "stats": {
-            "observations": 217,
-            "matched": 217,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.1778023841074658,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 1
-    },
-    {
-      "line": "10",
-      "mode": "tram",
-      "color": "#d6212b",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Ghencea",
-          "variants": 1,
-          "tripCount": 434,
-          "stops": 21,
-          "lengthKm": 9.97,
-          "stats": {
-            "observations": 316,
-            "matched": 316,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.5928906046536293,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Romprim",
-          "variants": 1,
-          "tripCount": 435,
-          "stops": 21,
-          "lengthKm": 9.97,
-          "stats": {
-            "observations": 418,
-            "matched": 418,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.4501536500655954,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 1
-    },
-    {
-      "line": "21",
-      "mode": "tram",
-      "color": "#d6212b",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Pasaj Colentina",
-          "variants": 1,
-          "tripCount": 519,
-          "stops": 14,
-          "lengthKm": 7.26,
-          "stats": {
-            "observations": 326,
-            "matched": 326,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.7903629528616218,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Piata Sf. Gheorghe",
-          "variants": 1,
-          "tripCount": 519,
-          "stops": 14,
-          "lengthKm": 7.13,
-          "stats": {
-            "observations": 321,
-            "matched": 321,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.3911533606280646,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 1
-    },
-    {
-      "line": "23",
-      "mode": "tram",
-      "color": "#d6212b",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Faur",
-          "variants": 1,
-          "tripCount": 200,
-          "stops": 35,
-          "lengthKm": 14.46,
-          "stats": {
-            "observations": 465,
-            "matched": 465,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.2898252001409674,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Zetarilor",
-          "variants": 1,
-          "tripCount": 201,
-          "stops": 36,
-          "lengthKm": 14.32,
-          "stats": {
-            "observations": 456,
-            "matched": 456,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 0.995722929104671,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 1
-    },
-    {
-      "line": "25",
-      "mode": "tram",
-      "color": "#d6212b",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Depoul Militari",
-          "variants": 1,
-          "tripCount": 450,
-          "stops": 34,
-          "lengthKm": 16.33,
-          "stats": {
-            "observations": 462,
-            "matched": 462,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.3665149563600416,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "C.F.R. Progresul",
-          "variants": 1,
-          "tripCount": 450,
-          "stops": 34,
-          "lengthKm": 16.04,
-          "stats": {
-            "observations": 429,
-            "matched": 429,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.121387768704286,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 1
-    },
-    {
-      "line": "27",
-      "mode": "tram",
-      "color": "#d6212b",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Piata Unirii",
-          "variants": 1,
-          "tripCount": 194,
-          "stops": 21,
-          "lengthKm": 8.73,
-          "stats": {
-            "observations": 266,
-            "matched": 266,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.1906816863371148,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Faur",
-          "variants": 1,
-          "tripCount": 202,
-          "stops": 21,
-          "lengthKm": 8.72,
-          "stats": {
-            "observations": 295,
-            "matched": 295,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.3130029330225825,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 1
-    },
-    {
-      "line": "32",
-      "mode": "tram",
-      "color": "#d6212b",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Piata Unirii",
-          "variants": 1,
-          "tripCount": 596,
-          "stops": 11,
-          "lengthKm": 5.37,
-          "stats": {
-            "observations": 79,
-            "matched": 79,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.267718323156679,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Depoul Alexandria",
-          "variants": 1,
-          "tripCount": 596,
-          "stops": 11,
-          "lengthKm": 5.3,
-          "stats": {
-            "observations": 101,
-            "matched": 101,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.3321616532904352,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 1
-    },
-    {
-      "line": "41",
-      "mode": "tram",
-      "color": "#d6212b",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Ghencea",
-          "variants": 1,
-          "tripCount": 779,
-          "stops": 15,
-          "lengthKm": 9.72,
-          "stats": {
-            "observations": 387,
-            "matched": 387,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 0.920439207994986,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Piata Presei",
-          "variants": 1,
-          "tripCount": 779,
-          "stops": 15,
-          "lengthKm": 9.61,
-          "stats": {
-            "observations": 324,
-            "matched": 324,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 0.9159187946968738,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 1
-    },
-    {
-      "line": "44",
-      "mode": "tram",
-      "color": "#d6212b",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Vasile Parvan",
-          "variants": 1,
-          "tripCount": 424,
-          "stops": 15,
-          "lengthKm": 4.67,
-          "stats": {
-            "observations": 184,
-            "matched": 184,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.2142859175838197,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Cartier Giulesti",
-          "variants": 1,
-          "tripCount": 426,
-          "stops": 17,
-          "lengthKm": 4.61,
-          "stats": {
-            "observations": 166,
-            "matched": 166,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 0.7601097372607102,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 1
-    },
-    {
-      "line": "53",
-      "mode": "tram",
-      "color": "#d6212b",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Depoul Bucurestii Noi",
-          "variants": 1,
-          "tripCount": 314,
-          "stops": 7,
-          "lengthKm": 2.09,
-          "stats": {
-            "observations": 48,
-            "matched": 48,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.9532466307847771,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Mezes",
-          "variants": 1,
-          "tripCount": 314,
-          "stops": 7,
-          "lengthKm": 2.09,
-          "stats": {
-            "observations": 57,
-            "matched": 57,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.588671526213919,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 1
-    },
-    {
-      "line": "54",
-      "mode": "tram",
-      "color": "#d6212b",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Piata Unirii",
-          "variants": 1,
-          "tripCount": 244,
-          "stops": 23,
-          "lengthKm": 10.14,
-          "stats": {
-            "observations": 294,
-            "matched": 294,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.240536838162519,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Sura Mare",
-          "variants": 1,
-          "tripCount": 242,
-          "stops": 24,
-          "lengthKm": 10.48,
-          "stats": {
-            "observations": 337,
-            "matched": 337,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.192244350260105,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 1
-    },
-    {
-      "line": "M1",
-      "mode": "tram",
-      "color": "#F8C301",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Dristor 2",
-          "variants": 2,
-          "tripCount": 140,
-          "stops": 21,
-          "lengthKm": 27.68,
-          "stats": {
-            "observations": 1070,
-            "matched": 1049,
-            "noCandidates": 21,
-            "viterbiBreaks": 1,
-            "bridged": 0,
-            "rawStretchCount": 2,
-            "rawMeters": 320,
-            "meanError": 14.07944157823081,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Gara de Nord 1 (M1)",
-          "variants": 2,
-          "tripCount": 141,
-          "stops": 22,
-          "lengthKm": 29.21,
-          "stats": {
-            "observations": 1130,
-            "matched": 1075,
-            "noCandidates": 55,
-            "viterbiBreaks": 1,
-            "bridged": 0,
-            "rawStretchCount": 1,
-            "rawMeters": 20,
-            "meanError": 14.464224496760043,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 1
-    },
-    {
-      "line": "M2",
-      "mode": "tram",
-      "color": "#495676",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Dimitrie Leonida",
-          "variants": 1,
-          "tripCount": 330,
-          "stops": 15,
-          "lengthKm": 19.15,
-          "stats": {
-            "observations": 687,
-            "matched": 680,
-            "noCandidates": 7,
-            "viterbiBreaks": 1,
-            "bridged": 0,
-            "rawStretchCount": 1,
-            "rawMeters": 20,
-            "meanError": 8.169019156996017,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Pipera",
-          "variants": 1,
-          "tripCount": 327,
-          "stops": 15,
-          "lengthKm": 19.15,
-          "stats": {
-            "observations": 687,
-            "matched": 680,
-            "noCandidates": 7,
-            "viterbiBreaks": 1,
-            "bridged": 0,
-            "rawStretchCount": 1,
-            "rawMeters": 20,
-            "meanError": 8.273154046238263,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 1
-    },
-    {
-      "line": "M3",
-      "mode": "tram",
-      "color": "#DA251C",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Nicolae Grigorescu",
-          "variants": 1,
-          "tripCount": 272,
-          "stops": 15,
-          "lengthKm": 20.35,
-          "stats": {
-            "observations": 383,
-            "matched": 366,
-            "noCandidates": 17,
-            "viterbiBreaks": 1,
-            "bridged": 0,
-            "rawStretchCount": 1,
-            "rawMeters": 20,
-            "meanError": 15.746367618817548,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Anghel Saligny",
-          "variants": 1,
-          "tripCount": 274,
-          "stops": 15,
-          "lengthKm": 20.35,
-          "stats": {
-            "observations": 383,
-            "matched": 366,
-            "noCandidates": 17,
-            "viterbiBreaks": 1,
-            "bridged": 0,
-            "rawStretchCount": 1,
-            "rawMeters": 20,
-            "meanError": 14.918096036132052,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 1
-    },
-    {
-      "line": "M4",
-      "mode": "tram",
-      "color": "#3C746B",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Gara de Nord 2 (M4)",
-          "variants": 1,
-          "tripCount": 266,
-          "stops": 8,
-          "lengthKm": 7.2,
-          "stats": {
-            "observations": 22,
-            "matched": 22,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 23.87910712911112,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Străulești",
-          "variants": 1,
-          "tripCount": 269,
-          "stops": 8,
-          "lengthKm": 7.2,
-          "stats": {
-            "observations": 35,
-            "matched": 35,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 20.340634303817588,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 1
-    },
-    {
-      "line": "M5",
-      "mode": "tram",
-      "color": "#F7951E",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Râul Doamnei",
-          "variants": 3,
-          "tripCount": 144,
-          "stops": 9,
-          "lengthKm": 5.88,
-          "stats": {
-            "observations": 223,
-            "matched": 213,
-            "noCandidates": 10,
-            "viterbiBreaks": 1,
-            "bridged": 0,
-            "rawStretchCount": 1,
-            "rawMeters": 20,
-            "meanError": 14.943022663240244,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Eroilor",
-          "variants": 2,
-          "tripCount": 143,
-          "stops": 9,
-          "lengthKm": 5.9,
-          "stats": {
-            "observations": 223,
-            "matched": 213,
-            "noCandidates": 10,
-            "viterbiBreaks": 1,
-            "bridged": 0,
-            "rawStretchCount": 1,
-            "rawMeters": 20,
-            "meanError": 15.330039093692077,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 1
     }
   ]
 }
