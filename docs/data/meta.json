@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T20:40:18.220Z",
+  "generatedAt": "2026-09-10T13:42:00.347Z",
   "bbox": [
     25.86997,
     44.255361,
@@ -55,7 +55,7 @@
           "dir": "0",
           "headsign": "Piata Rosetti",
           "variants": 1,
-          "tripCount": 323,
+          "tripCount": 319,
           "stops": 21,
           "lengthKm": 8.34,
           "stats": {
@@ -76,7 +76,7 @@
           "dir": "1",
           "headsign": "Complex Apusului",
           "variants": 1,
-          "tripCount": 323,
+          "tripCount": 319,
           "stops": 21,
           "lengthKm": 8.77,
           "stats": {
@@ -87,7 +87,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 3.387020930023809,
+            "meanError": 3.3811953963118775,
             "roundaboutSegs": 10,
             "extStart": 0,
             "extEnd": 0
@@ -105,7 +105,7 @@
           "dir": "0",
           "headsign": "Gara de Nord",
           "variants": 1,
-          "tripCount": 279,
+          "tripCount": 277,
           "stops": 23,
           "lengthKm": 9.09,
           "stats": {
@@ -116,7 +116,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 2.016299495048877,
+            "meanError": 2.0161225767429802,
             "roundaboutSegs": 0,
             "extStart": 0,
             "extEnd": 0
@@ -126,7 +126,7 @@
           "dir": "1",
           "headsign": "Colegiul Tehnic Iuliu Maniu",
           "variants": 1,
-          "tripCount": 295,
+          "tripCount": 292,
           "stops": 21,
           "lengthKm": 8.7,
           "stats": {
@@ -137,7 +137,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 3.0961318723068922,
+            "meanError": 3.090101708030512,
             "roundaboutSegs": 0,
             "extStart": 0,
             "extEnd": 0
@@ -155,7 +155,7 @@
           "dir": "0",
           "headsign": "Pod Izvor",
           "variants": 1,
-          "tripCount": 182,
+          "tripCount": 179,
           "stops": 25,
           "lengthKm": 10.19,
           "stats": {
@@ -166,7 +166,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 2.3803851809792937,
+            "meanError": 2.3931625772429914,
             "roundaboutSegs": 0,
             "extStart": 0,
             "extEnd": 0
@@ -176,7 +176,7 @@
           "dir": "1",
           "headsign": "Master",
           "variants": 1,
-          "tripCount": 182,
+          "tripCount": 179,
           "stops": 23,
           "lengthKm": 9.08,
           "stats": {
@@ -187,7 +187,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 2.8753507285473217,
+            "meanError": 2.868109963543044,
             "roundaboutSegs": 0,
             "extStart": 0,
             "extEnd": 0
@@ -205,7 +205,7 @@
           "dir": "0",
           "headsign": "Vasile Parvan",
           "variants": 1,
-          "tripCount": 227,
+          "tripCount": 224,
           "stops": 18,
           "lengthKm": 8.07,
           "stats": {
@@ -216,7 +216,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 1.9551805210804292,
+            "meanError": 1.99349946743499,
             "roundaboutSegs": 10,
             "extStart": 0,
             "extEnd": 0
@@ -226,9 +226,9 @@
           "dir": "1",
           "headsign": "Spitalul Fundeni",
           "variants": 1,
-          "tripCount": 212,
+          "tripCount": 209,
           "stops": 19,
-          "lengthKm": 8.18,
+          "lengthKm": 8.2,
           "stats": {
             "observations": 372,
             "matched": 372,
@@ -237,7 +237,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 3.2365366852107247,
+            "meanError": 3.277239590704802,
             "roundaboutSegs": 11,
             "extStart": 0,
             "extEnd": 0
@@ -255,7 +255,7 @@
           "dir": "0",
           "headsign": "Bd. Basarabia",
           "variants": 1,
-          "tripCount": 349,
+          "tripCount": 345,
           "stops": 38,
           "lengthKm": 15.54,
           "stats": {
@@ -266,7 +266,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 3.5458356248811684,
+            "meanError": 3.550076442870375,
             "roundaboutSegs": 33,
             "extStart": 0,
             "extEnd": 0
@@ -276,9 +276,9 @@
           "dir": "1",
           "headsign": "Valea Argesului",
           "variants": 1,
-          "tripCount": 346,
+          "tripCount": 342,
           "stops": 38,
-          "lengthKm": 15.72,
+          "lengthKm": 15.71,
           "stats": {
             "observations": 700,
             "matched": 700,
@@ -287,7 +287,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 2.9636096633770315,
+            "meanError": 2.9740741172580303,
             "roundaboutSegs": 23,
             "extStart": 0,
             "extEnd": 0
@@ -305,7 +305,7 @@
           "dir": "0",
           "headsign": "Costache Stamate",
           "variants": 1,
-          "tripCount": 257,
+          "tripCount": 253,
           "stops": 9,
           "lengthKm": 3.16,
           "stats": {
@@ -326,7 +326,7 @@
           "dir": "1",
           "headsign": "Turnu Magurele",
           "variants": 1,
-          "tripCount": 264,
+          "tripCount": 260,
           "stops": 8,
           "lengthKm": 3.26,
           "stats": {
@@ -355,7 +355,7 @@
           "dir": "0",
           "headsign": "Piata Sf. Vineri",
           "variants": 1,
-          "tripCount": 348,
+          "tripCount": 345,
           "stops": 23,
           "lengthKm": 10.43,
           "stats": {
@@ -376,7 +376,7 @@
           "dir": "1",
           "headsign": "Piata de Gros",
           "variants": 1,
-          "tripCount": 348,
+          "tripCount": 345,
           "stops": 19,
           "lengthKm": 9.5,
           "stats": {
@@ -387,7 +387,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 2.2944060301037656,
+            "meanError": 2.294403207815255,
             "roundaboutSegs": 15,
             "extStart": 0,
             "extEnd": 0
@@ -405,7 +405,7 @@
           "dir": "0",
           "headsign": "Piata Unirii",
           "variants": 1,
-          "tripCount": 257,
+          "tripCount": 254,
           "stops": 21,
           "lengthKm": 8.79,
           "stats": {
@@ -426,7 +426,7 @@
           "dir": "1",
           "headsign": "Arcade Berceni",
           "variants": 1,
-          "tripCount": 257,
+          "tripCount": 254,
           "stops": 18,
           "lengthKm": 8.66,
           "stats": {
@@ -455,7 +455,7 @@
           "dir": "0",
           "headsign": "Costache Stamate",
           "variants": 1,
-          "tripCount": 329,
+          "tripCount": 316,
           "stops": 9,
           "lengthKm": 3.93,
           "stats": {
@@ -466,7 +466,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 3.281174871162186,
+            "meanError": 3.285901018840379,
             "roundaboutSegs": 0,
             "extStart": 0,
             "extEnd": 0
@@ -476,7 +476,7 @@
           "dir": "1",
           "headsign": "Piata Resita",
           "variants": 1,
-          "tripCount": 342,
+          "tripCount": 327,
           "stops": 8,
           "lengthKm": 3.96,
           "stats": {
@@ -487,7 +487,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 2.2758868805502956,
+            "meanError": 2.2717513132906837,
             "roundaboutSegs": 0,
             "extStart": 0,
             "extEnd": 0
@@ -505,7 +505,7 @@
           "dir": "0",
           "headsign": "Calea Mosilor",
           "variants": 1,
-          "tripCount": 83,
+          "tripCount": 69,
           "stops": 20,
           "lengthKm": 7.04,
           "stats": {
@@ -516,7 +516,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 4.654135165119158,
+            "meanError": 4.652447075265682,
             "roundaboutSegs": 0,
             "extStart": 0,
             "extEnd": 0
@@ -526,7 +526,7 @@
           "dir": "1",
           "headsign": "Clabucet",
           "variants": 1,
-          "tripCount": 83,
+          "tripCount": 69,
           "stops": 20,
           "lengthKm": 7.11,
           "stats": {
@@ -555,9 +555,9 @@
           "dir": "0",
           "headsign": "Gara de Nord",
           "variants": 1,
-          "tripCount": 255,
+          "tripCount": 251,
           "stops": 21,
-          "lengthKm": 7.97,
+          "lengthKm": 8.03,
           "stats": {
             "observations": 355,
             "matched": 355,
@@ -566,7 +566,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 3.570091859970213,
+            "meanError": 3.5294072439561823,
             "roundaboutSegs": 14,
             "extStart": 0,
             "extEnd": 0
@@ -576,7 +576,7 @@
           "dir": "1",
           "headsign": "Arena Nationala",
           "variants": 1,
-          "tripCount": 255,
+          "tripCount": 251,
           "stops": 21,
           "lengthKm": 7.63,
           "stats": {
@@ -587,7 +587,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 3.9173064295938986,
+            "meanError": 3.899109642709929,
             "roundaboutSegs": 14,
             "extStart": 0,
             "extEnd": 0
@@ -605,7 +605,7 @@
           "dir": "0",
           "headsign": "Baicului",
           "variants": 1,
-          "tripCount": 329,
+          "tripCount": 326,
           "stops": 35,
           "lengthKm": 13.11,
           "stats": {
@@ -616,7 +616,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 4.12554810555163,
+            "meanError": 4.124590472798313,
             "roundaboutSegs": 0,
             "extStart": 0,
             "extEnd": 0
@@ -626,9 +626,9 @@
           "dir": "1",
           "headsign": "Cartier Pajura",
           "variants": 1,
-          "tripCount": 329,
+          "tripCount": 326,
           "stops": 35,
-          "lengthKm": 13.42,
+          "lengthKm": 13.57,
           "stats": {
             "observations": 473,
             "matched": 473,
@@ -637,7 +637,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 4.15581033913363,
+            "meanError": 4.162895653589752,
             "roundaboutSegs": 0,
             "extStart": 0,
             "extEnd": 0
@@ -655,7 +655,7 @@
           "dir": "0",
           "headsign": "M Petrache Poenaru",
           "variants": 1,
-          "tripCount": 201,
+          "tripCount": 199,
           "stops": 26,
           "lengthKm": 11.58,
           "stats": {
@@ -676,7 +676,7 @@
           "dir": "1",
           "headsign": "Arena Nationala",
           "variants": 1,
-          "tripCount": 201,
+          "tripCount": 199,
           "stops": 25,
           "lengthKm": 8.98,
           "stats": {
@@ -687,7 +687,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 3.085494925298223,
+            "meanError": 3.068528154829619,
             "roundaboutSegs": 14,
             "extStart": 0,
             "extEnd": 0
@@ -705,9 +705,9 @@
           "dir": "0",
           "headsign": "Piata Presei",
           "variants": 1,
-          "tripCount": 312,
+          "tripCount": 307,
           "stops": 39,
-          "lengthKm": 15.74,
+          "lengthKm": 15.76,
           "stats": {
             "observations": 675,
             "matched": 675,
@@ -716,7 +716,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 3.4664097348382037,
+            "meanError": 3.5363907319036443,
             "roundaboutSegs": 14,
             "extStart": 0,
             "extEnd": 0
@@ -726,7 +726,7 @@
           "dir": "1",
           "headsign": "Cartier Constantin Brancusi",
           "variants": 1,
-          "tripCount": 312,
+          "tripCount": 307,
           "stops": 36,
           "lengthKm": 15.38,
           "stats": {
@@ -737,7 +737,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 3.414774723500287,
+            "meanError": 3.4148635303802743,
             "roundaboutSegs": 7,
             "extStart": 0,
             "extEnd": 0
@@ -755,7 +755,7 @@
           "dir": "0",
           "headsign": "Cartier Pajura",
           "variants": 1,
-          "tripCount": 333,
+          "tripCount": 326,
           "stops": 12,
           "lengthKm": 4.13,
           "stats": {
@@ -776,7 +776,7 @@
           "dir": "1",
           "headsign": "M Straulesti",
           "variants": 1,
-          "tripCount": 350,
+          "tripCount": 342,
           "stops": 12,
           "lengthKm": 4.11,
           "stats": {
@@ -805,7 +805,7 @@
           "dir": "0",
           "headsign": "Gara de Nord",
           "variants": 1,
-          "tripCount": 220,
+          "tripCount": 216,
           "stops": 18,
           "lengthKm": 7.51,
           "stats": {
@@ -816,7 +816,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 3.955571436779376,
+            "meanError": 4.000797600290694,
             "roundaboutSegs": 0,
             "extStart": 0,
             "extEnd": 0
@@ -826,7 +826,7 @@
           "dir": "1",
           "headsign": "Depoul Alexandria",
           "variants": 1,
-          "tripCount": 218,
+          "tripCount": 215,
           "stops": 17,
           "lengthKm": 7.17,
           "stats": {
@@ -837,7 +837,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 3.658553549423438,
+            "meanError": 3.6681853384931355,
             "roundaboutSegs": 0,
             "extStart": 0,
             "extEnd": 0
@@ -855,7 +855,7 @@
           "dir": "0",
           "headsign": "Pasaj Mihai Bravu",
           "variants": 1,
-          "tripCount": 285,
+          "tripCount": 282,
           "stops": 35,
           "lengthKm": 12.27,
           "stats": {
@@ -876,9 +876,9 @@
           "dir": "1",
           "headsign": "Clabucet",
           "variants": 1,
-          "tripCount": 285,
+          "tripCount": 282,
           "stops": 35,
-          "lengthKm": 12.67,
+          "lengthKm": 12.83,
           "stats": {
             "observations": 538,
             "matched": 538,
@@ -887,7 +887,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 4.552766495125611,
+            "meanError": 4.552962926453682,
             "roundaboutSegs": 37,
             "extStart": 0,
             "extEnd": 0
@@ -916,7 +916,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 1.7272842961920851,
+            "meanError": 1.7274056734042331,
             "roundaboutSegs": 34,
             "extStart": 0,
             "extEnd": 0
@@ -928,7 +928,7 @@
           "variants": 1,
           "tripCount": 212,
           "stops": 9,
-          "lengthKm": 18.55,
+          "lengthKm": 18.56,
           "stats": {
             "observations": 715,
             "matched": 715,
@@ -937,8 +937,8 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 1.1768397494061864,
-            "roundaboutSegs": 64,
+            "meanError": 1.5689014566395674,
+            "roundaboutSegs": 67,
             "extStart": 0,
             "extEnd": 0
           }
@@ -956,17 +956,17 @@
           "headsign": "Bucur Obor",
           "variants": 1,
           "tripCount": 324,
-          "stops": 19,
+          "stops": 18,
           "lengthKm": 8.09,
           "stats": {
-            "observations": 334,
-            "matched": 334,
+            "observations": 316,
+            "matched": 316,
             "noCandidates": 0,
             "viterbiBreaks": 0,
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 3.537528870045727,
+            "meanError": 3.8263883695879226,
             "roundaboutSegs": 23,
             "extStart": 0,
             "extEnd": 0
@@ -977,17 +977,17 @@
           "headsign": "Faur",
           "variants": 1,
           "tripCount": 324,
-          "stops": 17,
-          "lengthKm": 8.35,
+          "stops": 19,
+          "lengthKm": 8.6,
           "stats": {
-            "observations": 334,
-            "matched": 334,
+            "observations": 359,
+            "matched": 359,
             "noCandidates": 0,
             "viterbiBreaks": 0,
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 3.340964386273384,
+            "meanError": 3.290047897276061,
             "roundaboutSegs": 2,
             "extStart": 0,
             "extEnd": 0
@@ -1016,7 +1016,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 3.853143204430352,
+            "meanError": 3.85783677345863,
             "roundaboutSegs": 0,
             "extStart": 0,
             "extEnd": 0
@@ -1055,7 +1055,7 @@
           "dir": "0",
           "headsign": "Isovolta",
           "variants": 1,
-          "tripCount": 294,
+          "tripCount": 285,
           "stops": 13,
           "lengthKm": 5.76,
           "stats": {
@@ -1066,7 +1066,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 2.3754504572386175,
+            "meanError": 2.361969422883153,
             "roundaboutSegs": 0,
             "extStart": 0,
             "extEnd": 0
@@ -1076,9 +1076,9 @@
           "dir": "1",
           "headsign": "Pantelimon",
           "variants": 1,
-          "tripCount": 294,
+          "tripCount": 285,
           "stops": 16,
-          "lengthKm": 7.86,
+          "lengthKm": 7.85,
           "stats": {
             "observations": 253,
             "matched": 253,
@@ -1087,7 +1087,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 3.5103392358032397,
+            "meanError": 3.4907591673177776,
             "roundaboutSegs": 0,
             "extStart": 0,
             "extEnd": 0
@@ -1107,7 +1107,7 @@
           "variants": 1,
           "tripCount": 422,
           "stops": 25,
-          "lengthKm": 11.52,
+          "lengthKm": 11.51,
           "stats": {
             "observations": 485,
             "matched": 485,
@@ -1116,7 +1116,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 2.4551119912368606,
+            "meanError": 2.4603647861546367,
             "roundaboutSegs": 12,
             "extStart": 0,
             "extEnd": 0
@@ -1137,7 +1137,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 2.646890869852645,
+            "meanError": 2.6472844905619546,
             "roundaboutSegs": 26,
             "extStart": 0,
             "extEnd": 0
@@ -1156,17 +1156,17 @@
           "headsign": "Soseaua Nicolae Titulescu",
           "variants": 1,
           "tripCount": 209,
-          "stops": 19,
-          "lengthKm": 9.28,
+          "stops": 18,
+          "lengthKm": 9.27,
           "stats": {
-            "observations": 401,
-            "matched": 401,
+            "observations": 427,
+            "matched": 427,
             "noCandidates": 0,
             "viterbiBreaks": 0,
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 3.7434742093574926,
+            "meanError": 3.826328752781533,
             "roundaboutSegs": 0,
             "extStart": 0,
             "extEnd": 0
@@ -1177,17 +1177,17 @@
           "headsign": "Valea Oltului",
           "variants": 1,
           "tripCount": 209,
-          "stops": 20,
-          "lengthKm": 9.74,
+          "stops": 23,
+          "lengthKm": 9.93,
           "stats": {
-            "observations": 431,
-            "matched": 431,
+            "observations": 466,
+            "matched": 466,
             "noCandidates": 0,
             "viterbiBreaks": 0,
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 2.5402140149896937,
+            "meanError": 2.5866547121247305,
             "roundaboutSegs": 0,
             "extStart": 0,
             "extEnd": 0
@@ -1207,7 +1207,7 @@
           "variants": 1,
           "tripCount": 174,
           "stops": 16,
-          "lengthKm": 5.26,
+          "lengthKm": 5.25,
           "stats": {
             "observations": 231,
             "matched": 231,
@@ -1216,7 +1216,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 3.417392134797312,
+            "meanError": 3.435865108185352,
             "roundaboutSegs": 7,
             "extStart": 0,
             "extEnd": 0
@@ -1228,7 +1228,7 @@
           "variants": 1,
           "tripCount": 174,
           "stops": 14,
-          "lengthKm": 5.17,
+          "lengthKm": 5.18,
           "stats": {
             "observations": 222,
             "matched": 222,
@@ -1237,7 +1237,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 2.501848325621785,
+            "meanError": 2.5122035615093763,
             "roundaboutSegs": 7,
             "extStart": 0,
             "extEnd": 0
@@ -1255,7 +1255,7 @@
           "dir": "0",
           "headsign": "Complex Colosseum",
           "variants": 1,
-          "tripCount": 218,
+          "tripCount": 221,
           "stops": 30,
           "lengthKm": 14.79,
           "stats": {
@@ -1276,7 +1276,7 @@
           "dir": "1",
           "headsign": "Pasajul Pipera",
           "variants": 1,
-          "tripCount": 226,
+          "tripCount": 227,
           "stops": 31,
           "lengthKm": 14.29,
           "stats": {
@@ -1337,7 +1337,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 2.6059982921988305,
+            "meanError": 2.6059953529242676,
             "roundaboutSegs": 0,
             "extStart": 0,
             "extEnd": 0
@@ -1387,7 +1387,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 2.8387497874351357,
+            "meanError": 2.8387463178327463,
             "roundaboutSegs": 0,
             "extStart": 0,
             "extEnd": 0
@@ -1416,7 +1416,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 2.9100327314559316,
+            "meanError": 2.9132750570931667,
             "roundaboutSegs": 9,
             "extStart": 0,
             "extEnd": 0
@@ -1427,17 +1427,17 @@
           "headsign": "Pasaj Domnesti",
           "variants": 1,
           "tripCount": 115,
-          "stops": 30,
+          "stops": 31,
           "lengthKm": 12.51,
           "stats": {
-            "observations": 486,
-            "matched": 486,
+            "observations": 503,
+            "matched": 503,
             "noCandidates": 0,
             "viterbiBreaks": 0,
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 2.424668188235721,
+            "meanError": 2.532628679959607,
             "roundaboutSegs": 12,
             "extStart": 0,
             "extEnd": 0
@@ -1453,23 +1453,23 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "Gara de Nord",
+          "headsign": "Gara Basarab",
           "variants": 1,
           "tripCount": 338,
-          "stops": 25,
-          "lengthKm": 10.34,
+          "stops": 24,
+          "lengthKm": 9.6,
           "stats": {
-            "observations": 350,
-            "matched": 350,
+            "observations": 387,
+            "matched": 387,
             "noCandidates": 0,
             "viterbiBreaks": 0,
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 3.5772998138128367,
+            "meanError": 3.511203514961527,
             "roundaboutSegs": 0,
             "extStart": 0,
-            "extEnd": 2977
+            "extEnd": 0
           }
         },
         {
@@ -1477,17 +1477,17 @@
           "headsign": "C.E.T. Sud Vitan",
           "variants": 1,
           "tripCount": 350,
-          "stops": 22,
-          "lengthKm": 9.15,
+          "stops": 23,
+          "lengthKm": 9.83,
           "stats": {
-            "observations": 350,
-            "matched": 350,
+            "observations": 384,
+            "matched": 384,
             "noCandidates": 0,
             "viterbiBreaks": 0,
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 2.0976025696507032,
+            "meanError": 2.0077069791733106,
             "roundaboutSegs": 0,
             "extStart": 0,
             "extEnd": 0
@@ -1578,7 +1578,7 @@
           "variants": 1,
           "tripCount": 216,
           "stops": 29,
-          "lengthKm": 12.73,
+          "lengthKm": 12.88,
           "stats": {
             "observations": 581,
             "matched": 581,
@@ -1587,7 +1587,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 4.1260385117431895,
+            "meanError": 4.131804491783343,
             "roundaboutSegs": 0,
             "extStart": 0,
             "extEnd": 0
@@ -1605,9 +1605,9 @@
           "dir": "0",
           "headsign": "Piata 21 Decembrie 1989",
           "variants": 1,
-          "tripCount": 217,
+          "tripCount": 216,
           "stops": 32,
-          "lengthKm": 16.05,
+          "lengthKm": 16.06,
           "stats": {
             "observations": 552,
             "matched": 552,
@@ -1616,7 +1616,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 2.743841507909351,
+            "meanError": 2.759458286526576,
             "roundaboutSegs": 49,
             "extStart": 0,
             "extEnd": 0
@@ -1626,18 +1626,18 @@
           "dir": "1",
           "headsign": "Carrefour Militari",
           "variants": 1,
-          "tripCount": 217,
-          "stops": 28,
-          "lengthKm": 14.18,
+          "tripCount": 218,
+          "stops": 29,
+          "lengthKm": 14.19,
           "stats": {
-            "observations": 524,
-            "matched": 524,
+            "observations": 541,
+            "matched": 541,
             "noCandidates": 0,
             "viterbiBreaks": 0,
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 3.196684301997218,
+            "meanError": 3.2538454785620665,
             "roundaboutSegs": 13,
             "extStart": 0,
             "extEnd": 0
@@ -1666,7 +1666,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 1.9425735061224436,
+            "meanError": 1.9379926062399346,
             "roundaboutSegs": 7,
             "extStart": 0,
             "extEnd": 0
@@ -1678,7 +1678,7 @@
           "variants": 1,
           "tripCount": 232,
           "stops": 21,
-          "lengthKm": 9.03,
+          "lengthKm": 9.02,
           "stats": {
             "observations": 419,
             "matched": 419,
@@ -1687,7 +1687,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 3.0091167455256973,
+            "meanError": 2.9896748551822876,
             "roundaboutSegs": 36,
             "extStart": 0,
             "extEnd": 0
@@ -1716,7 +1716,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 3.5799101332294665,
+            "meanError": 3.579711415287276,
             "roundaboutSegs": 0,
             "extStart": 0,
             "extEnd": 0
@@ -1737,7 +1737,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 2.6013401657023105,
+            "meanError": 2.6044368023513442,
             "roundaboutSegs": 0,
             "extStart": 0,
             "extEnd": 0
@@ -1807,7 +1807,7 @@
           "variants": 1,
           "tripCount": 193,
           "stops": 15,
-          "lengthKm": 5.65,
+          "lengthKm": 5.66,
           "stats": {
             "observations": 252,
             "matched": 252,
@@ -1816,7 +1816,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 2.8407162352121484,
+            "meanError": 2.854575170678121,
             "roundaboutSegs": 19,
             "extStart": 0,
             "extEnd": 0
@@ -1853,20 +1853,20 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "Gara de Nord",
+          "headsign": "Gara Basarab",
           "variants": 1,
           "tripCount": 139,
-          "stops": 23,
-          "lengthKm": 8.46,
+          "stops": 22,
+          "lengthKm": 7.79,
           "stats": {
-            "observations": 372,
-            "matched": 372,
+            "observations": 365,
+            "matched": 365,
             "noCandidates": 0,
             "viterbiBreaks": 0,
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 2.338529849255626,
+            "meanError": 2.2738432854561834,
             "roundaboutSegs": 10,
             "extStart": 0,
             "extEnd": 0
@@ -1877,17 +1877,17 @@
           "headsign": "Giulesti Sarbi",
           "variants": 1,
           "tripCount": 154,
-          "stops": 24,
-          "lengthKm": 9.02,
+          "stops": 25,
+          "lengthKm": 9.65,
           "stats": {
-            "observations": 384,
-            "matched": 384,
+            "observations": 415,
+            "matched": 415,
             "noCandidates": 0,
             "viterbiBreaks": 0,
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 2.14464964138818,
+            "meanError": 2.0659727399951597,
             "roundaboutSegs": 12,
             "extStart": 0,
             "extEnd": 0
@@ -1906,17 +1906,17 @@
           "headsign": "Piata Operei",
           "variants": 1,
           "tripCount": 165,
-          "stops": 28,
+          "stops": 27,
           "lengthKm": 10.65,
           "stats": {
-            "observations": 500,
-            "matched": 500,
+            "observations": 515,
+            "matched": 515,
             "noCandidates": 0,
             "viterbiBreaks": 0,
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 2.4872326239017526,
+            "meanError": 2.3796246971523023,
             "roundaboutSegs": 3,
             "extStart": 0,
             "extEnd": 0
@@ -1937,7 +1937,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 2.876534956406883,
+            "meanError": 2.8617669297142294,
             "roundaboutSegs": 20,
             "extStart": 0,
             "extEnd": 0
@@ -1957,7 +1957,7 @@
           "variants": 1,
           "tripCount": 187,
           "stops": 21,
-          "lengthKm": 8.85,
+          "lengthKm": 8.86,
           "stats": {
             "observations": 356,
             "matched": 356,
@@ -1966,7 +1966,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 3.341413092771718,
+            "meanError": 3.3668097214288357,
             "roundaboutSegs": 0,
             "extStart": 0,
             "extEnd": 0
@@ -1987,7 +1987,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 3.4352374914054877,
+            "meanError": 3.452447913637343,
             "roundaboutSegs": 15,
             "extStart": 0,
             "extEnd": 0
@@ -2006,7 +2006,7 @@
           "headsign": "Sala Palatului",
           "variants": 1,
           "tripCount": 341,
-          "stops": 20,
+          "stops": 22,
           "lengthKm": 10,
           "stats": {
             "observations": 462,
@@ -2016,7 +2016,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 2.2763745157279915,
+            "meanError": 2.277177722962266,
             "roundaboutSegs": 0,
             "extStart": 0,
             "extEnd": 0
@@ -2027,7 +2027,7 @@
           "headsign": "Complex Apusului",
           "variants": 1,
           "tripCount": 342,
-          "stops": 21,
+          "stops": 23,
           "lengthKm": 10.25,
           "stats": {
             "observations": 405,
@@ -2037,7 +2037,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 2.892083823902481,
+            "meanError": 2.8914086880701264,
             "roundaboutSegs": 10,
             "extStart": 0,
             "extEnd": 0
@@ -2053,43 +2053,43 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "Gara Basarab",
+          "headsign": "Gara de Nord",
           "variants": 1,
-          "tripCount": 259,
-          "stops": 30,
-          "lengthKm": 11.71,
+          "tripCount": 271,
+          "stops": 29,
+          "lengthKm": 11.5,
           "stats": {
-            "observations": 473,
-            "matched": 473,
+            "observations": 470,
+            "matched": 470,
             "noCandidates": 0,
             "viterbiBreaks": 0,
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 2.4856162355729206,
+            "meanError": 2.4940322948367712,
             "roundaboutSegs": 0,
             "extStart": 0,
-            "extEnd": 150
+            "extEnd": 0
           }
         },
         {
           "dir": "1",
           "headsign": "Dragonul Rosu",
           "variants": 1,
-          "tripCount": 266,
-          "stops": 32,
-          "lengthKm": 13.23,
+          "tripCount": 278,
+          "stops": 30,
+          "lengthKm": 12.32,
           "stats": {
-            "observations": 433,
-            "matched": 433,
+            "observations": 478,
+            "matched": 478,
             "noCandidates": 0,
             "viterbiBreaks": 0,
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 2.7684733575246043,
+            "meanError": 2.7817328273172954,
             "roundaboutSegs": 0,
-            "extStart": 2777,
+            "extStart": 0,
             "extEnd": 0
           }
         }
@@ -2107,17 +2107,17 @@
           "variants": 1,
           "tripCount": 120,
           "stops": 9,
-          "lengthKm": 3.69,
+          "lengthKm": 3.97,
           "stats": {
-            "observations": 154,
-            "matched": 154,
+            "observations": 134,
+            "matched": 134,
             "noCandidates": 0,
             "viterbiBreaks": 0,
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 2.0484609286984177,
-            "roundaboutSegs": 9,
+            "meanError": 1.717419280121327,
+            "roundaboutSegs": 0,
             "extStart": 0,
             "extEnd": 0
           }
@@ -2137,7 +2137,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 2.4720336894397805,
+            "meanError": 2.4704116009499653,
             "roundaboutSegs": 0,
             "extStart": 0,
             "extEnd": 0
@@ -2157,7 +2157,7 @@
           "variants": 1,
           "tripCount": 198,
           "stops": 33,
-          "lengthKm": 17.44,
+          "lengthKm": 17.46,
           "stats": {
             "observations": 834,
             "matched": 834,
@@ -2166,7 +2166,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 2.636180337413588,
+            "meanError": 2.477363350671434,
             "roundaboutSegs": 42,
             "extStart": 0,
             "extEnd": 0
@@ -2187,7 +2187,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 3.656585493004356,
+            "meanError": 3.638341207116993,
             "roundaboutSegs": 51,
             "extStart": 0,
             "extEnd": 0
@@ -2207,7 +2207,7 @@
           "variants": 1,
           "tripCount": 157,
           "stops": 18,
-          "lengthKm": 11.83,
+          "lengthKm": 11.82,
           "stats": {
             "observations": 452,
             "matched": 452,
@@ -2216,7 +2216,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 2.995010472006941,
+            "meanError": 2.931157161510331,
             "roundaboutSegs": 36,
             "extStart": 0,
             "extEnd": 0
@@ -2227,17 +2227,17 @@
           "headsign": "Cartier Greenfield",
           "variants": 1,
           "tripCount": 157,
-          "stops": 18,
+          "stops": 17,
           "lengthKm": 12.15,
           "stats": {
-            "observations": 487,
-            "matched": 487,
+            "observations": 437,
+            "matched": 437,
             "noCandidates": 0,
             "viterbiBreaks": 0,
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 2.4712562519339536,
+            "meanError": 2.540169373522668,
             "roundaboutSegs": 45,
             "extStart": 0,
             "extEnd": 0
@@ -2256,8 +2256,8 @@
           "headsign": "Piata Unirii 2",
           "variants": 1,
           "tripCount": 236,
-          "stops": 30,
-          "lengthKm": 14.03,
+          "stops": 29,
+          "lengthKm": 14.01,
           "stats": {
             "observations": 507,
             "matched": 507,
@@ -2266,7 +2266,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 3.2395551358573846,
+            "meanError": 3.228039387041175,
             "roundaboutSegs": 27,
             "extStart": 0,
             "extEnd": 0
@@ -2278,7 +2278,7 @@
           "variants": 1,
           "tripCount": 236,
           "stops": 35,
-          "lengthKm": 15.75,
+          "lengthKm": 15.74,
           "stats": {
             "observations": 642,
             "matched": 642,
@@ -2287,7 +2287,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 3.831597907875507,
+            "meanError": 3.833576411423461,
             "roundaboutSegs": 29,
             "extStart": 0,
             "extEnd": 0
@@ -2316,7 +2316,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 3.528550477324246,
+            "meanError": 3.5317922241195103,
             "roundaboutSegs": 0,
             "extStart": 0,
             "extEnd": 0
@@ -2337,7 +2337,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 3.254922838095431,
+            "meanError": 3.2525334267893697,
             "roundaboutSegs": 0,
             "extStart": 0,
             "extEnd": 0
@@ -2416,7 +2416,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 2.9689667977919494,
+            "meanError": 2.99563587472501,
             "roundaboutSegs": 13,
             "extStart": 0,
             "extEnd": 0
@@ -2437,7 +2437,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 2.409534209877057,
+            "meanError": 2.4093973420048354,
             "roundaboutSegs": 2,
             "extStart": 0,
             "extEnd": 0
@@ -2466,7 +2466,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 2.6349415344607734,
+            "meanError": 2.634917349138026,
             "roundaboutSegs": 9,
             "extStart": 0,
             "extEnd": 0
@@ -2528,16 +2528,16 @@
           "variants": 1,
           "tripCount": 77,
           "stops": 14,
-          "lengthKm": 9.17,
+          "lengthKm": 9.2,
           "stats": {
-            "observations": 258,
-            "matched": 258,
+            "observations": 311,
+            "matched": 311,
             "noCandidates": 0,
             "viterbiBreaks": 0,
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 2.497508399721845,
+            "meanError": 2.1899397838098675,
             "roundaboutSegs": 0,
             "extStart": 0,
             "extEnd": 0
@@ -2587,7 +2587,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 2.8294567910269244,
+            "meanError": 2.8326865072670224,
             "roundaboutSegs": 15,
             "extStart": 0,
             "extEnd": 0
@@ -2666,7 +2666,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 2.919454112734564,
+            "meanError": 2.9196707514926095,
             "roundaboutSegs": 10,
             "extStart": 0,
             "extEnd": 0
@@ -2687,7 +2687,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 2.858806573651307,
+            "meanError": 2.860482909589718,
             "roundaboutSegs": 18,
             "extStart": 0,
             "extEnd": 0
@@ -2866,8 +2866,8 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 2.741627449358469,
-            "roundaboutSegs": 35,
+            "meanError": 2.7846160709510746,
+            "roundaboutSegs": 37,
             "extStart": 0,
             "extEnd": 0
           }
@@ -2887,8 +2887,8 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 3.1286962646345025,
-            "roundaboutSegs": 33,
+            "meanError": 3.078937716965334,
+            "roundaboutSegs": 36,
             "extStart": 0,
             "extEnd": 0
           }
@@ -2905,18 +2905,18 @@
           "dir": "0",
           "headsign": "Soseaua Fundeni",
           "variants": 1,
-          "tripCount": 262,
-          "stops": 34,
-          "lengthKm": 12.79,
+          "tripCount": 259,
+          "stops": 33,
+          "lengthKm": 14.16,
           "stats": {
-            "observations": 576,
-            "matched": 576,
+            "observations": 602,
+            "matched": 602,
             "noCandidates": 0,
             "viterbiBreaks": 0,
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 2.4756983793891414,
+            "meanError": 3.3366724505399663,
             "roundaboutSegs": 30,
             "extStart": 0,
             "extEnd": 0
@@ -2926,18 +2926,18 @@
           "dir": "1",
           "headsign": "Gara Basarab",
           "variants": 1,
-          "tripCount": 265,
-          "stops": 30,
-          "lengthKm": 13.37,
+          "tripCount": 257,
+          "stops": 34,
+          "lengthKm": 14.65,
           "stats": {
-            "observations": 593,
-            "matched": 593,
+            "observations": 653,
+            "matched": 653,
             "noCandidates": 0,
             "viterbiBreaks": 0,
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 3.3157345271295595,
+            "meanError": 2.5618904633672512,
             "roundaboutSegs": 30,
             "extStart": 0,
             "extEnd": 0
@@ -2987,7 +2987,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 2.3953931220270626,
+            "meanError": 2.395416791709101,
             "roundaboutSegs": 20,
             "extStart": 0,
             "extEnd": 0
@@ -3016,7 +3016,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 2.4794398988382063,
+            "meanError": 2.479391374033422,
             "roundaboutSegs": 134,
             "extStart": 0,
             "extEnd": 0
@@ -3037,7 +3037,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 3.0052518111028204,
+            "meanError": 3.0317268396902515,
             "roundaboutSegs": 111,
             "extStart": 0,
             "extEnd": 0
@@ -3066,7 +3066,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 2.804611195959747,
+            "meanError": 2.804568552949482,
             "roundaboutSegs": 143,
             "extStart": 0,
             "extEnd": 0
@@ -3087,7 +3087,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 2.8772550256313414,
+            "meanError": 2.8998863255093354,
             "roundaboutSegs": 114,
             "extStart": 0,
             "extEnd": 0
@@ -3107,16 +3107,16 @@
           "variants": 1,
           "tripCount": 128,
           "stops": 21,
-          "lengthKm": 13.33,
+          "lengthKm": 13.32,
           "stats": {
-            "observations": 422,
-            "matched": 422,
+            "observations": 423,
+            "matched": 423,
             "noCandidates": 0,
             "viterbiBreaks": 0,
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 3.028105311541651,
+            "meanError": 2.969341708833737,
             "roundaboutSegs": 19,
             "extStart": 0,
             "extEnd": 0
@@ -3127,17 +3127,17 @@
           "headsign": "M Straulesti",
           "variants": 1,
           "tripCount": 128,
-          "stops": 20,
+          "stops": 19,
           "lengthKm": 15.93,
           "stats": {
-            "observations": 546,
-            "matched": 546,
+            "observations": 497,
+            "matched": 497,
             "noCandidates": 0,
             "viterbiBreaks": 0,
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 2.1273794555479464,
+            "meanError": 2.1570018042274626,
             "roundaboutSegs": 89,
             "extStart": 0,
             "extEnd": 0
@@ -3156,7 +3156,7 @@
           "headsign": "Luterana",
           "variants": 1,
           "tripCount": 245,
-          "stops": 28,
+          "stops": 27,
           "lengthKm": 13.43,
           "stats": {
             "observations": 446,
@@ -3176,18 +3176,18 @@
           "dir": "1",
           "headsign": "Faur",
           "variants": 1,
-          "tripCount": 245,
-          "stops": 26,
-          "lengthKm": 11.44,
+          "tripCount": 107,
+          "stops": 27,
+          "lengthKm": 11.79,
           "stats": {
-            "observations": 448,
-            "matched": 448,
+            "observations": 465,
+            "matched": 465,
             "noCandidates": 0,
             "viterbiBreaks": 0,
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 3.4407521213613985,
+            "meanError": 3.5122294993064704,
             "roundaboutSegs": 25,
             "extStart": 0,
             "extEnd": 0
@@ -3216,7 +3216,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 3.3455179339978964,
+            "meanError": 3.3455037289071408,
             "roundaboutSegs": 25,
             "extStart": 0,
             "extEnd": 0
@@ -3266,7 +3266,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 2.1629630146707135,
+            "meanError": 2.16313994071467,
             "roundaboutSegs": 16,
             "extStart": 0,
             "extEnd": 0
@@ -3287,7 +3287,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 2.5778512375219926,
+            "meanError": 2.579599511817268,
             "roundaboutSegs": 24,
             "extStart": 0,
             "extEnd": 0
@@ -3316,7 +3316,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 2.922817097540832,
+            "meanError": 2.9227971753311226,
             "roundaboutSegs": 0,
             "extStart": 0,
             "extEnd": 0
@@ -3337,7 +3337,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 2.7148857069588126,
+            "meanError": 2.7109338674156778,
             "roundaboutSegs": 0,
             "extStart": 0,
             "extEnd": 0
@@ -3366,8 +3366,8 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 2.467078755889787,
-            "roundaboutSegs": 64,
+            "meanError": 2.372832693143524,
+            "roundaboutSegs": 67,
             "extStart": 0,
             "extEnd": 0
           }
@@ -3378,7 +3378,7 @@
           "variants": 1,
           "tripCount": 236,
           "stops": 13,
-          "lengthKm": 5.7,
+          "lengthKm": 5.71,
           "stats": {
             "observations": 232,
             "matched": 232,
@@ -3387,8 +3387,8 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 2.1726802789714936,
-            "roundaboutSegs": 39,
+            "meanError": 2.2545163020265577,
+            "roundaboutSegs": 41,
             "extStart": 0,
             "extEnd": 0
           }
@@ -3405,7 +3405,7 @@
           "dir": "0",
           "headsign": "Piata Romana",
           "variants": 1,
-          "tripCount": 363,
+          "tripCount": 364,
           "stops": 16,
           "lengthKm": 7.37,
           "stats": {
@@ -3426,7 +3426,7 @@
           "dir": "1",
           "headsign": "Cartier Damaroaia",
           "variants": 1,
-          "tripCount": 368,
+          "tripCount": 367,
           "stops": 17,
           "lengthKm": 7.8,
           "stats": {
@@ -3509,14 +3509,14 @@
           "stops": 28,
           "lengthKm": 16.4,
           "stats": {
-            "observations": 697,
-            "matched": 697,
+            "observations": 683,
+            "matched": 683,
             "noCandidates": 0,
             "viterbiBreaks": 0,
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 2.793233101925987,
+            "meanError": 2.8030504667281986,
             "roundaboutSegs": 54,
             "extStart": 0,
             "extEnd": 0
@@ -3537,7 +3537,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 3.113671364026725,
+            "meanError": 3.0412643309595215,
             "roundaboutSegs": 63,
             "extStart": 0,
             "extEnd": 0
@@ -3616,7 +3616,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 3.38053815900761,
+            "meanError": 3.415974292658765,
             "roundaboutSegs": 16,
             "extStart": 0,
             "extEnd": 0
@@ -3627,7 +3627,7 @@
           "headsign": "Valea Oltului",
           "variants": 1,
           "tripCount": 287,
-          "stops": 23,
+          "stops": 24,
           "lengthKm": 10.17,
           "stats": {
             "observations": 505,
@@ -3637,7 +3637,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 3.092210688656358,
+            "meanError": 3.099919047041232,
             "roundaboutSegs": 19,
             "extStart": 0,
             "extEnd": 0
@@ -3655,7 +3655,7 @@
           "dir": "0",
           "headsign": "Clabucet",
           "variants": 1,
-          "tripCount": 375,
+          "tripCount": 374,
           "stops": 31,
           "lengthKm": 14.35,
           "stats": {
@@ -3666,7 +3666,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 3.389348619940827,
+            "meanError": 3.3906927777921347,
             "roundaboutSegs": 28,
             "extStart": 0,
             "extEnd": 0
@@ -3676,7 +3676,7 @@
           "dir": "1",
           "headsign": "Piata Resita",
           "variants": 1,
-          "tripCount": 381,
+          "tripCount": 378,
           "stops": 28,
           "lengthKm": 14.17,
           "stats": {
@@ -3687,7 +3687,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 2.1117919635774625,
+            "meanError": 2.1104636997874833,
             "roundaboutSegs": 8,
             "extStart": 0,
             "extEnd": 0
@@ -3705,18 +3705,18 @@
           "dir": "0",
           "headsign": "Escalei",
           "variants": 1,
-          "tripCount": 129,
-          "stops": 20,
+          "tripCount": 115,
+          "stops": 19,
           "lengthKm": 6.58,
           "stats": {
-            "observations": 279,
-            "matched": 279,
+            "observations": 271,
+            "matched": 271,
             "noCandidates": 0,
             "viterbiBreaks": 0,
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 3.2090160738771916,
+            "meanError": 3.196146576405344,
             "roundaboutSegs": 0,
             "extStart": 0,
             "extEnd": 0
@@ -3726,18 +3726,18 @@
           "dir": "1",
           "headsign": "Baicului",
           "variants": 1,
-          "tripCount": 129,
-          "stops": 17,
-          "lengthKm": 6.21,
+          "tripCount": 115,
+          "stops": 20,
+          "lengthKm": 7.06,
           "stats": {
-            "observations": 234,
-            "matched": 234,
+            "observations": 274,
+            "matched": 274,
             "noCandidates": 0,
             "viterbiBreaks": 0,
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 1.9001318343197537,
+            "meanError": 2.0113662624701445,
             "roundaboutSegs": 0,
             "extStart": 0,
             "extEnd": 0
@@ -3766,7 +3766,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 2.173545543364502,
+            "meanError": 2.172374097169704,
             "roundaboutSegs": 6,
             "extStart": 0,
             "extEnd": 0
@@ -3787,7 +3787,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 2.570220138492976,
+            "meanError": 2.572386181098805,
             "roundaboutSegs": 9,
             "extStart": 0,
             "extEnd": 0
@@ -3805,7 +3805,7 @@
           "dir": "0",
           "headsign": "Vadu Anei",
           "variants": 1,
-          "tripCount": 18,
+          "tripCount": 42,
           "stops": 63,
           "lengthKm": 42.11,
           "stats": {
@@ -3826,7 +3826,7 @@
           "dir": "1",
           "headsign": "Piata Presei",
           "variants": 1,
-          "tripCount": 18,
+          "tripCount": 42,
           "stops": 59,
           "lengthKm": 42.24,
           "stats": {
@@ -3837,7 +3837,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 2.1341971069596366,
+            "meanError": 2.133672504252857,
             "roundaboutSegs": 52,
             "extStart": 0,
             "extEnd": 0
@@ -3855,7 +3855,7 @@
           "dir": "0",
           "headsign": "Spital Balaceanca",
           "variants": 1,
-          "tripCount": 61,
+          "tripCount": 127,
           "stops": 13,
           "lengthKm": 9.01,
           "stats": {
@@ -3876,7 +3876,7 @@
           "dir": "1",
           "headsign": "M Nicolae Teclu",
           "variants": 1,
-          "tripCount": 61,
+          "tripCount": 127,
           "stops": 17,
           "lengthKm": 10.58,
           "stats": {
@@ -3905,7 +3905,7 @@
           "dir": "0",
           "headsign": "Sat Posta",
           "variants": 1,
-          "tripCount": 32,
+          "tripCount": 76,
           "stops": 27,
           "lengthKm": 19.66,
           "stats": {
@@ -3916,7 +3916,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 2.5074269121087163,
+            "meanError": 2.5212649163649976,
             "roundaboutSegs": 48,
             "extStart": 0,
             "extEnd": 0
@@ -3926,9 +3926,9 @@
           "dir": "1",
           "headsign": "Pantelimon",
           "variants": 1,
-          "tripCount": 34,
+          "tripCount": 76,
           "stops": 28,
-          "lengthKm": 20.07,
+          "lengthKm": 20.06,
           "stats": {
             "observations": 864,
             "matched": 864,
@@ -3937,7 +3937,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 1.827527688868471,
+            "meanError": 1.8163233663530984,
             "roundaboutSegs": 28,
             "extStart": 0,
             "extEnd": 0
@@ -3955,7 +3955,7 @@
           "dir": "0",
           "headsign": "Manolache",
           "variants": 1,
-          "tripCount": 22,
+          "tripCount": 66,
           "stops": 9,
           "lengthKm": 4.95,
           "stats": {
@@ -3976,7 +3976,7 @@
           "dir": "1",
           "headsign": "M Nicolae Teclu",
           "variants": 1,
-          "tripCount": 21,
+          "tripCount": 63,
           "stops": 9,
           "lengthKm": 5.5,
           "stats": {
@@ -3987,7 +3987,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 1.625021306946003,
+            "meanError": 1.6315931970345101,
             "roundaboutSegs": 9,
             "extStart": 0,
             "extEnd": 0
@@ -4005,7 +4005,7 @@
           "dir": "0",
           "headsign": "Merii Petchii",
           "variants": 1,
-          "tripCount": 24,
+          "tripCount": 56,
           "stops": 59,
           "lengthKm": 49.4,
           "stats": {
@@ -4026,7 +4026,7 @@
           "dir": "1",
           "headsign": "Bucur Obor",
           "variants": 1,
-          "tripCount": 24,
+          "tripCount": 56,
           "stops": 57,
           "lengthKm": 48.88,
           "stats": {
@@ -4055,7 +4055,7 @@
           "dir": "0",
           "headsign": "Crizantemelor",
           "variants": 1,
-          "tripCount": 23,
+          "tripCount": 51,
           "stops": 38,
           "lengthKm": 22.25,
           "stats": {
@@ -4076,7 +4076,7 @@
           "dir": "1",
           "headsign": "Bucur Obor",
           "variants": 1,
-          "tripCount": 22,
+          "tripCount": 50,
           "stops": 36,
           "lengthKm": 21.65,
           "stats": {
@@ -4105,7 +4105,7 @@
           "dir": "0",
           "headsign": "Gagu",
           "variants": 1,
-          "tripCount": 20,
+          "tripCount": 46,
           "stops": 43,
           "lengthKm": 29.61,
           "stats": {
@@ -4116,8 +4116,8 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 2.8220780632731146,
-            "roundaboutSegs": 8,
+            "meanError": 2.8218300465272264,
+            "roundaboutSegs": 6,
             "extStart": 0,
             "extEnd": 0
           }
@@ -4126,7 +4126,7 @@
           "dir": "1",
           "headsign": "Bucur Obor",
           "variants": 1,
-          "tripCount": 21,
+          "tripCount": 45,
           "stops": 43,
           "lengthKm": 29.57,
           "stats": {
@@ -4137,8 +4137,8 @@
             "bridged": 0,
             "rawStretchCount": 1,
             "rawMeters": 675,
-            "meanError": 2.426376912957685,
-            "roundaboutSegs": 10,
+            "meanError": 2.417960353891052,
+            "roundaboutSegs": 8,
             "extStart": 0,
             "extEnd": 0
           }
@@ -4155,7 +4155,7 @@
           "dir": "0",
           "headsign": "Maineasca",
           "variants": 1,
-          "tripCount": 20,
+          "tripCount": 46,
           "stops": 40,
           "lengthKm": 28.83,
           "stats": {
@@ -4166,8 +4166,8 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 2.6191081002879084,
-            "roundaboutSegs": 8,
+            "meanError": 2.6188583119938356,
+            "roundaboutSegs": 6,
             "extStart": 0,
             "extEnd": 0
           }
@@ -4176,7 +4176,7 @@
           "dir": "1",
           "headsign": "Bucur Obor",
           "variants": 1,
-          "tripCount": 21,
+          "tripCount": 45,
           "stops": 40,
           "lengthKm": 28.73,
           "stats": {
@@ -4187,8 +4187,8 @@
             "bridged": 0,
             "rawStretchCount": 1,
             "rawMeters": 675,
-            "meanError": 2.0396573290417224,
-            "roundaboutSegs": 10,
+            "meanError": 2.0311588109729426,
+            "roundaboutSegs": 8,
             "extStart": 0,
             "extEnd": 0
           }
@@ -4205,7 +4205,7 @@
           "dir": "0",
           "headsign": "Piteasca",
           "variants": 1,
-          "tripCount": 27,
+          "tripCount": 53,
           "stops": 34,
           "lengthKm": 21.55,
           "stats": {
@@ -4216,8 +4216,8 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 2.668726215211791,
-            "roundaboutSegs": 18,
+            "meanError": 2.668375882253166,
+            "roundaboutSegs": 16,
             "extStart": 0,
             "extEnd": 0
           }
@@ -4226,9 +4226,9 @@
           "dir": "1",
           "headsign": "Bucur Obor",
           "variants": 1,
-          "tripCount": 27,
+          "tripCount": 53,
           "stops": 33,
-          "lengthKm": 21.24,
+          "lengthKm": 21.23,
           "stats": {
             "observations": 963,
             "matched": 963,
@@ -4237,8 +4237,8 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 1.466055747280548,
-            "roundaboutSegs": 42,
+            "meanError": 1.4516011531966937,
+            "roundaboutSegs": 40,
             "extStart": 0,
             "extEnd": 0
           }
@@ -4255,7 +4255,7 @@
           "dir": "0",
           "headsign": "Strada Garii Pantelimon",
           "variants": 1,
-          "tripCount": 49,
+          "tripCount": 97,
           "stops": 33,
           "lengthKm": 13.92,
           "stats": {
@@ -4276,7 +4276,7 @@
           "dir": "1",
           "headsign": "M Pipera",
           "variants": 1,
-          "tripCount": 49,
+          "tripCount": 97,
           "stops": 29,
           "lengthKm": 11.96,
           "stats": {
@@ -4305,7 +4305,7 @@
           "dir": "0",
           "headsign": "Piteasca",
           "variants": 1,
-          "tripCount": 26,
+          "tripCount": 54,
           "stops": 31,
           "lengthKm": 23.94,
           "stats": {
@@ -4316,7 +4316,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 2.78717553021922,
+            "meanError": 2.7869032696218734,
             "roundaboutSegs": 0,
             "extStart": 0,
             "extEnd": 0
@@ -4326,7 +4326,7 @@
           "dir": "1",
           "headsign": "Bucur Obor",
           "variants": 1,
-          "tripCount": 26,
+          "tripCount": 54,
           "stops": 30,
           "lengthKm": 23.39,
           "stats": {
@@ -4337,7 +4337,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 2.110149209236043,
+            "meanError": 2.1116355273356784,
             "roundaboutSegs": 0,
             "extStart": 0,
             "extEnd": 0
@@ -4355,7 +4355,7 @@
           "dir": "0",
           "headsign": "Copaceni",
           "variants": 1,
-          "tripCount": 22,
+          "tripCount": 46,
           "stops": 24,
           "lengthKm": 16.51,
           "stats": {
@@ -4376,7 +4376,7 @@
           "dir": "1",
           "headsign": "C.f.r. Progresul",
           "variants": 1,
-          "tripCount": 21,
+          "tripCount": 45,
           "stops": 24,
           "lengthKm": 16.54,
           "stats": {
@@ -4405,7 +4405,7 @@
           "dir": "0",
           "headsign": "Bumbacaria Jilava",
           "variants": 1,
-          "tripCount": 41,
+          "tripCount": 109,
           "stops": 20,
           "lengthKm": 9.33,
           "stats": {
@@ -4426,7 +4426,7 @@
           "dir": "1",
           "headsign": "C.f.r. Progresul",
           "variants": 1,
-          "tripCount": 41,
+          "tripCount": 109,
           "stops": 17,
           "lengthKm": 7.72,
           "stats": {
@@ -4438,56 +4438,6 @@
             "rawStretchCount": 0,
             "rawMeters": 0,
             "meanError": 1.2370109859478369,
-            "roundaboutSegs": 32,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 1
-    },
-    {
-      "line": "420",
-      "mode": "bus",
-      "color": "#0059a9",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Vidra",
-          "variants": 1,
-          "tripCount": 26,
-          "stops": 34,
-          "lengthKm": 18,
-          "stats": {
-            "observations": 901,
-            "matched": 901,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 2.8974228667708575,
-            "roundaboutSegs": 45,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "C.f.r. Progresul",
-          "variants": 1,
-          "tripCount": 25,
-          "stops": 36,
-          "lengthKm": 17.87,
-          "stats": {
-            "observations": 860,
-            "matched": 860,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 2.0901701252533154,
             "roundaboutSegs": 32,
             "extStart": 0,
             "extEnd": 0
@@ -4566,7 +4516,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 3.410398909482311,
+            "meanError": 3.410250357742701,
             "roundaboutSegs": 34,
             "extStart": 0,
             "extEnd": 0
@@ -4587,7 +4537,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 2.3569851308349983,
+            "meanError": 2.3583789961732733,
             "roundaboutSegs": 39,
             "extStart": 0,
             "extEnd": 0
@@ -4616,7 +4566,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 2.5778787200444944,
+            "meanError": 2.5777471059798676,
             "roundaboutSegs": 45,
             "extStart": 0,
             "extEnd": 0
@@ -4637,7 +4587,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 2.0058971848680334,
+            "meanError": 2.007143958889204,
             "roundaboutSegs": 44,
             "extStart": 0,
             "extEnd": 0
@@ -4716,7 +4666,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 2.272967695596741,
+            "meanError": 2.272857846104424,
             "roundaboutSegs": 34,
             "extStart": 0,
             "extEnd": 0
@@ -4737,7 +4687,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 2.4659490676199494,
+            "meanError": 2.467097657335685,
             "roundaboutSegs": 39,
             "extStart": 0,
             "extEnd": 0
@@ -4766,7 +4716,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 2.7187421392414906,
+            "meanError": 2.7185802690700527,
             "roundaboutSegs": 34,
             "extStart": 0,
             "extEnd": 0
@@ -4787,7 +4737,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 2.5263447575819633,
+            "meanError": 2.527758563395471,
             "roundaboutSegs": 39,
             "extStart": 0,
             "extEnd": 0
@@ -4805,18 +4755,18 @@
           "dir": "0",
           "headsign": "Pruni",
           "variants": 1,
-          "tripCount": 37,
-          "stops": 30,
+          "tripCount": 79,
+          "stops": 32,
           "lengthKm": 15.33,
           "stats": {
-            "observations": 662,
-            "matched": 662,
+            "observations": 647,
+            "matched": 647,
             "noCandidates": 0,
             "viterbiBreaks": 0,
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 1.9672582406933075,
+            "meanError": 1.9633291747637285,
             "roundaboutSegs": 31,
             "extStart": 0,
             "extEnd": 0
@@ -4826,8 +4776,8 @@
           "dir": "1",
           "headsign": "Ghencea",
           "variants": 1,
-          "tripCount": 38,
-          "stops": 30,
+          "tripCount": 82,
+          "stops": 32,
           "lengthKm": 15.57,
           "stats": {
             "observations": 780,
@@ -4837,7 +4787,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 1.934527078935614,
+            "meanError": 1.946005973159671,
             "roundaboutSegs": 34,
             "extStart": 0,
             "extEnd": 0
@@ -4855,7 +4805,7 @@
           "dir": "0",
           "headsign": "Darasti",
           "variants": 1,
-          "tripCount": 26,
+          "tripCount": 60,
           "stops": 35,
           "lengthKm": 17.6,
           "stats": {
@@ -4876,7 +4826,7 @@
           "dir": "1",
           "headsign": "Ghencea",
           "variants": 1,
-          "tripCount": 27,
+          "tripCount": 61,
           "stops": 36,
           "lengthKm": 17.82,
           "stats": {
@@ -4887,7 +4837,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 1.8312323096994483,
+            "meanError": 1.8311964693837102,
             "roundaboutSegs": 17,
             "extStart": 0,
             "extEnd": 0
@@ -4905,7 +4855,7 @@
           "dir": "0",
           "headsign": "Ghencea",
           "variants": 1,
-          "tripCount": 31,
+          "tripCount": 77,
           "stops": 38,
           "lengthKm": 18.17,
           "stats": {
@@ -4916,7 +4866,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 1.7226991191106589,
+            "meanError": 1.7223444031737507,
             "roundaboutSegs": 50,
             "extStart": 0,
             "extEnd": 0
@@ -4926,7 +4876,7 @@
           "dir": "1",
           "headsign": "C.f.r. Progresul",
           "variants": 1,
-          "tripCount": 31,
+          "tripCount": 77,
           "stops": 36,
           "lengthKm": 17.84,
           "stats": {
@@ -4955,7 +4905,7 @@
           "dir": "0",
           "headsign": "Pasaj Cfr Chitila",
           "variants": 1,
-          "tripCount": 30,
+          "tripCount": 90,
           "stops": 30,
           "lengthKm": 22.42,
           "stats": {
@@ -4976,9 +4926,9 @@
           "dir": "1",
           "headsign": "Valea Cascadelor",
           "variants": 1,
-          "tripCount": 30,
+          "tripCount": 90,
           "stops": 35,
-          "lengthKm": 27.79,
+          "lengthKm": 27.81,
           "stats": {
             "observations": 1336,
             "matched": 1336,
@@ -4987,7 +4937,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 1.3074444733554116,
+            "meanError": 1.320391432864602,
             "roundaboutSegs": 88,
             "extStart": 0,
             "extEnd": 0
@@ -5007,7 +4957,7 @@
           "variants": 1,
           "tripCount": 79,
           "stops": 22,
-          "lengthKm": 14.9,
+          "lengthKm": 14.89,
           "stats": {
             "observations": 424,
             "matched": 424,
@@ -5016,7 +4966,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 2.263317578001989,
+            "meanError": 2.2784493698793615,
             "roundaboutSegs": 23,
             "extStart": 0,
             "extEnd": 0
@@ -5057,7 +5007,7 @@
           "variants": 1,
           "tripCount": 95,
           "stops": 23,
-          "lengthKm": 14.77,
+          "lengthKm": 14.76,
           "stats": {
             "observations": 461,
             "matched": 461,
@@ -5066,7 +5016,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 2.3767394073757804,
+            "meanError": 2.3901353904101135,
             "roundaboutSegs": 52,
             "extStart": 0,
             "extEnd": 0
@@ -5107,7 +5057,7 @@
           "variants": 1,
           "tripCount": 39,
           "stops": 17,
-          "lengthKm": 12.53,
+          "lengthKm": 12.52,
           "stats": {
             "observations": 350,
             "matched": 350,
@@ -5116,7 +5066,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 2.5087840820039586,
+            "meanError": 2.526440678553508,
             "roundaboutSegs": 52,
             "extStart": 0,
             "extEnd": 0
@@ -5166,7 +5116,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 2.5460978149128595,
+            "meanError": 2.544784047346807,
             "roundaboutSegs": 0,
             "extStart": 0,
             "extEnd": 0
@@ -5205,7 +5155,7 @@
           "dir": "0",
           "headsign": "Pasaj Cfr Chitila",
           "variants": 1,
-          "tripCount": 38,
+          "tripCount": 96,
           "stops": 30,
           "lengthKm": 14.14,
           "stats": {
@@ -5226,7 +5176,7 @@
           "dir": "1",
           "headsign": "Complex Baneasa",
           "variants": 1,
-          "tripCount": 38,
+          "tripCount": 96,
           "stops": 29,
           "lengthKm": 13.78,
           "stats": {
@@ -5255,7 +5205,7 @@
           "dir": "0",
           "headsign": "Oras Buftea",
           "variants": 1,
-          "tripCount": 86,
+          "tripCount": 200,
           "stops": 23,
           "lengthKm": 11.4,
           "stats": {
@@ -5266,7 +5216,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 2.2823447490535504,
+            "meanError": 2.2823886386055197,
             "roundaboutSegs": 14,
             "extStart": 0,
             "extEnd": 0
@@ -5276,7 +5226,7 @@
           "dir": "1",
           "headsign": "M Straulesti",
           "variants": 1,
-          "tripCount": 87,
+          "tripCount": 203,
           "stops": 23,
           "lengthKm": 11.16,
           "stats": {
@@ -5287,7 +5237,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 2.527890825078284,
+            "meanError": 2.5278485109019226,
             "roundaboutSegs": 22,
             "extStart": 0,
             "extEnd": 0
@@ -5305,7 +5255,7 @@
           "dir": "0",
           "headsign": "Vidra",
           "variants": 1,
-          "tripCount": 31,
+          "tripCount": 55,
           "stops": 30,
           "lengthKm": 18.76,
           "stats": {
@@ -5316,7 +5266,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 2.7792223302835843,
+            "meanError": 2.7765398624256403,
             "roundaboutSegs": 21,
             "extStart": 0,
             "extEnd": 0
@@ -5326,7 +5276,7 @@
           "dir": "1",
           "headsign": "Piata Sudului",
           "variants": 1,
-          "tripCount": 31,
+          "tripCount": 57,
           "stops": 33,
           "lengthKm": 19.29,
           "stats": {
@@ -5337,7 +5287,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 2.3200095206736107,
+            "meanError": 2.322683414119945,
             "roundaboutSegs": 26,
             "extStart": 0,
             "extEnd": 0
@@ -5355,7 +5305,7 @@
           "dir": "0",
           "headsign": "Danubiana",
           "variants": 1,
-          "tripCount": 53,
+          "tripCount": 153,
           "stops": 15,
           "lengthKm": 7.24,
           "stats": {
@@ -5376,7 +5326,7 @@
           "dir": "1",
           "headsign": "Piata Sudului",
           "variants": 1,
-          "tripCount": 53,
+          "tripCount": 151,
           "stops": 17,
           "lengthKm": 7.9,
           "stats": {
@@ -5405,7 +5355,7 @@
           "dir": "0",
           "headsign": "Leordeni",
           "variants": 1,
-          "tripCount": 68,
+          "tripCount": 150,
           "stops": 19,
           "lengthKm": 8.57,
           "stats": {
@@ -5426,7 +5376,7 @@
           "dir": "1",
           "headsign": "Piata Sudului",
           "variants": 1,
-          "tripCount": 67,
+          "tripCount": 149,
           "stops": 20,
           "lengthKm": 8.63,
           "stats": {
@@ -5457,16 +5407,16 @@
           "variants": 1,
           "tripCount": 62,
           "stops": 25,
-          "lengthKm": 20.91,
+          "lengthKm": 20.89,
           "stats": {
-            "observations": 575,
-            "matched": 575,
+            "observations": 577,
+            "matched": 577,
             "noCandidates": 0,
             "viterbiBreaks": 0,
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 2.6511436473326775,
+            "meanError": 2.610559151095412,
             "roundaboutSegs": 14,
             "extStart": 0,
             "extEnd": 0
@@ -5477,17 +5427,17 @@
           "headsign": "Ostratu",
           "variants": 1,
           "tripCount": 61,
-          "stops": 26,
+          "stops": 25,
           "lengthKm": 21.15,
           "stats": {
-            "observations": 714,
-            "matched": 714,
+            "observations": 665,
+            "matched": 665,
             "noCandidates": 0,
             "viterbiBreaks": 0,
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 2.2106630633165842,
+            "meanError": 2.2345805525370266,
             "roundaboutSegs": 56,
             "extStart": 0,
             "extEnd": 0
@@ -5507,16 +5457,16 @@
           "variants": 1,
           "tripCount": 61,
           "stops": 27,
-          "lengthKm": 20.8,
+          "lengthKm": 20.79,
           "stats": {
-            "observations": 545,
-            "matched": 545,
+            "observations": 547,
+            "matched": 547,
             "noCandidates": 0,
             "viterbiBreaks": 0,
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 2.8646080505708698,
+            "meanError": 2.8210117160669483,
             "roundaboutSegs": 14,
             "extStart": 0,
             "extEnd": 0
@@ -5527,17 +5477,17 @@
           "headsign": "Tamasi",
           "variants": 1,
           "tripCount": 60,
-          "stops": 29,
+          "stops": 28,
           "lengthKm": 21.16,
           "stats": {
-            "observations": 717,
-            "matched": 717,
+            "observations": 668,
+            "matched": 668,
             "noCandidates": 0,
             "viterbiBreaks": 0,
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 2.381650690270305,
+            "meanError": 2.4180219145028476,
             "roundaboutSegs": 56,
             "extStart": 0,
             "extEnd": 0
@@ -5557,17 +5507,17 @@
           "variants": 1,
           "tripCount": 119,
           "stops": 20,
-          "lengthKm": 19.38,
+          "lengthKm": 19.36,
           "stats": {
-            "observations": 545,
-            "matched": 545,
+            "observations": 547,
+            "matched": 547,
             "noCandidates": 0,
             "viterbiBreaks": 0,
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 2.31208119849455,
-            "roundaboutSegs": 94,
+            "meanError": 2.270508771873691,
+            "roundaboutSegs": 102,
             "extStart": 0,
             "extEnd": 0
           }
@@ -5577,18 +5527,18 @@
           "headsign": "Therme Bucuresti",
           "variants": 1,
           "tripCount": 114,
-          "stops": 19,
-          "lengthKm": 17.2,
+          "stops": 18,
+          "lengthKm": 17.23,
           "stats": {
-            "observations": 581,
-            "matched": 581,
+            "observations": 532,
+            "matched": 532,
             "noCandidates": 0,
             "viterbiBreaks": 0,
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 2.2527799687980927,
-            "roundaboutSegs": 80,
+            "meanError": 2.2865745850146038,
+            "roundaboutSegs": 95,
             "extStart": 0,
             "extEnd": 0
           }
@@ -5607,16 +5557,16 @@
           "variants": 1,
           "tripCount": 51,
           "stops": 40,
-          "lengthKm": 34.2,
+          "lengthKm": 34.19,
           "stats": {
-            "observations": 1033,
-            "matched": 1033,
+            "observations": 1035,
+            "matched": 1035,
             "noCandidates": 0,
             "viterbiBreaks": 0,
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 2.3691255883532008,
+            "meanError": 2.347063079925052,
             "roundaboutSegs": 29,
             "extStart": 0,
             "extEnd": 0
@@ -5627,17 +5577,17 @@
           "headsign": "Peris",
           "variants": 1,
           "tripCount": 47,
-          "stops": 34,
+          "stops": 33,
           "lengthKm": 29.94,
           "stats": {
-            "observations": 840,
-            "matched": 840,
+            "observations": 791,
+            "matched": 791,
             "noCandidates": 0,
             "viterbiBreaks": 0,
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 2.168295254978807,
+            "meanError": 2.185770179325418,
             "roundaboutSegs": 72,
             "extStart": 0,
             "extEnd": 0
@@ -5657,16 +5607,16 @@
           "variants": 1,
           "tripCount": 41,
           "stops": 39,
-          "lengthKm": 32.5,
+          "lengthKm": 32.49,
           "stats": {
-            "observations": 924,
-            "matched": 924,
+            "observations": 926,
+            "matched": 926,
             "noCandidates": 0,
             "viterbiBreaks": 0,
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 2.7112266552540003,
+            "meanError": 2.685824670552911,
             "roundaboutSegs": 29,
             "extStart": 0,
             "extEnd": 0
@@ -5677,17 +5627,17 @@
           "headsign": "Peris Sat",
           "variants": 1,
           "tripCount": 42,
-          "stops": 39,
+          "stops": 38,
           "lengthKm": 32.81,
           "stats": {
-            "observations": 986,
-            "matched": 986,
+            "observations": 937,
+            "matched": 937,
             "noCandidates": 0,
             "viterbiBreaks": 0,
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 2.382195045712508,
+            "meanError": 2.408141926032778,
             "roundaboutSegs": 72,
             "extStart": 0,
             "extEnd": 0
@@ -5707,16 +5657,16 @@
           "variants": 1,
           "tripCount": 36,
           "stops": 35,
-          "lengthKm": 35.15,
+          "lengthKm": 35.14,
           "stats": {
-            "observations": 1120,
-            "matched": 1120,
+            "observations": 1122,
+            "matched": 1122,
             "noCandidates": 0,
             "viterbiBreaks": 0,
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 2.0908263400655893,
+            "meanError": 2.0709726065971403,
             "roundaboutSegs": 29,
             "extStart": 0,
             "extEnd": 0
@@ -5727,17 +5677,17 @@
           "headsign": "Piscu",
           "variants": 1,
           "tripCount": 36,
-          "stops": 32,
+          "stops": 31,
           "lengthKm": 34.02,
           "stats": {
-            "observations": 1171,
-            "matched": 1171,
+            "observations": 1122,
+            "matched": 1122,
             "noCandidates": 0,
             "viterbiBreaks": 0,
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 2.229399561912505,
+            "meanError": 2.244385557696247,
             "roundaboutSegs": 72,
             "extStart": 0,
             "extEnd": 0
@@ -5757,16 +5707,16 @@
           "variants": 1,
           "tripCount": 51,
           "stops": 54,
-          "lengthKm": 47.45,
+          "lengthKm": 47.43,
           "stats": {
-            "observations": 1554,
-            "matched": 1554,
+            "observations": 1556,
+            "matched": 1556,
             "noCandidates": 0,
             "viterbiBreaks": 0,
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 2.6610783076451403,
+            "meanError": 2.6460323017587815,
             "roundaboutSegs": 29,
             "extStart": 0,
             "extEnd": 0
@@ -5777,17 +5727,17 @@
           "headsign": "Gruiu-Lipia",
           "variants": 1,
           "tripCount": 50,
-          "stops": 53,
+          "stops": 52,
           "lengthKm": 47.7,
           "stats": {
-            "observations": 1584,
-            "matched": 1584,
+            "observations": 1535,
+            "matched": 1535,
             "noCandidates": 0,
             "viterbiBreaks": 0,
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 2.138518608744578,
+            "meanError": 2.1465669363640965,
             "roundaboutSegs": 72,
             "extStart": 0,
             "extEnd": 0
@@ -5805,7 +5755,7 @@
           "dir": "0",
           "headsign": "Gruiu Lipia Urcare",
           "variants": 1,
-          "tripCount": 20,
+          "tripCount": 46,
           "stops": 50,
           "lengthKm": 42.71,
           "stats": {
@@ -5826,7 +5776,7 @@
           "dir": "1",
           "headsign": "Piata Presei",
           "variants": 1,
-          "tripCount": 23,
+          "tripCount": 53,
           "stops": 49,
           "lengthKm": 42.66,
           "stats": {
@@ -5837,7 +5787,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 1.733096367585346,
+            "meanError": 1.7326648608415425,
             "roundaboutSegs": 42,
             "extStart": 0,
             "extEnd": 0
@@ -5855,7 +5805,7 @@
           "dir": "0",
           "headsign": "Micsunestii Mari",
           "variants": 1,
-          "tripCount": 14,
+          "tripCount": 32,
           "stops": 58,
           "lengthKm": 52.59,
           "stats": {
@@ -5876,7 +5826,7 @@
           "dir": "1",
           "headsign": "Piata Presei",
           "variants": 1,
-          "tripCount": 14,
+          "tripCount": 32,
           "stops": 59,
           "lengthKm": 52.58,
           "stats": {
@@ -5887,7 +5837,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 1.7722568170667694,
+            "meanError": 1.7719072303319219,
             "roundaboutSegs": 42,
             "extStart": 0,
             "extEnd": 0
@@ -5907,16 +5857,16 @@
           "variants": 1,
           "tripCount": 51,
           "stops": 41,
-          "lengthKm": 29.05,
+          "lengthKm": 29.04,
           "stats": {
-            "observations": 845,
-            "matched": 845,
+            "observations": 847,
+            "matched": 847,
             "noCandidates": 0,
             "viterbiBreaks": 0,
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 2.5156296503062086,
+            "meanError": 2.4883180169272356,
             "roundaboutSegs": 21,
             "extStart": 0,
             "extEnd": 0
@@ -5927,17 +5877,17 @@
           "headsign": "Moara Vlasiei",
           "variants": 1,
           "tripCount": 53,
-          "stops": 42,
+          "stops": 41,
           "lengthKm": 29.33,
           "stats": {
-            "observations": 945,
-            "matched": 945,
+            "observations": 896,
+            "matched": 896,
             "noCandidates": 0,
             "viterbiBreaks": 0,
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 2.838885110867837,
+            "meanError": 2.891023762457094,
             "roundaboutSegs": 62,
             "extStart": 0,
             "extEnd": 0
@@ -5955,7 +5905,7 @@
           "dir": "0",
           "headsign": "Dumbraveni Spital Sri",
           "variants": 1,
-          "tripCount": 26,
+          "tripCount": 58,
           "stops": 41,
           "lengthKm": 22.6,
           "stats": {
@@ -5966,7 +5916,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 1.8687790215805644,
+            "meanError": 1.8690315687559107,
             "roundaboutSegs": 43,
             "extStart": 0,
             "extEnd": 0
@@ -5976,7 +5926,7 @@
           "dir": "1",
           "headsign": "M Aurel Vlaicu",
           "variants": 1,
-          "tripCount": 26,
+          "tripCount": 58,
           "stops": 39,
           "lengthKm": 21.5,
           "stats": {
@@ -5987,7 +5937,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 3.020354173555836,
+            "meanError": 3.0199555672530844,
             "roundaboutSegs": 42,
             "extStart": 0,
             "extEnd": 0
@@ -6005,7 +5955,7 @@
           "dir": "0",
           "headsign": "M Pipera",
           "variants": 1,
-          "tripCount": 34,
+          "tripCount": 88,
           "stops": 22,
           "lengthKm": 10.58,
           "stats": {
@@ -6016,7 +5966,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 1.9941391771035466,
+            "meanError": 2.1550155651511655,
             "roundaboutSegs": 83,
             "extStart": 0,
             "extEnd": 0
@@ -6026,7 +5976,7 @@
           "dir": "1",
           "headsign": "Complex Baneasa",
           "variants": 1,
-          "tripCount": 34,
+          "tripCount": 88,
           "stops": 27,
           "lengthKm": 12.21,
           "stats": {
@@ -6037,7 +5987,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 1.9289478591628535,
+            "meanError": 1.9433270759455672,
             "roundaboutSegs": 130,
             "extStart": 0,
             "extEnd": 0
@@ -6055,7 +6005,7 @@
           "dir": "0",
           "headsign": "Tanganu",
           "variants": 1,
-          "tripCount": 41,
+          "tripCount": 97,
           "stops": 26,
           "lengthKm": 16.91,
           "stats": {
@@ -6066,7 +6016,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 2.365529918560354,
+            "meanError": 2.3818372713887004,
             "roundaboutSegs": 11,
             "extStart": 0,
             "extEnd": 0
@@ -6076,9 +6026,9 @@
           "dir": "1",
           "headsign": "Pantelimon",
           "variants": 1,
-          "tripCount": 41,
+          "tripCount": 97,
           "stops": 27,
-          "lengthKm": 17.03,
+          "lengthKm": 17.02,
           "stats": {
             "observations": 770,
             "matched": 770,
@@ -6087,7 +6037,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 1.71188667106739,
+            "meanError": 1.699088226440563,
             "roundaboutSegs": 4,
             "extStart": 0,
             "extEnd": 0
@@ -6105,7 +6055,7 @@
           "dir": "0",
           "headsign": "Islaz",
           "variants": 1,
-          "tripCount": 25,
+          "tripCount": 53,
           "stops": 22,
           "lengthKm": 17.66,
           "stats": {
@@ -6116,7 +6066,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 2.3381022463767263,
+            "meanError": 2.3396739033975154,
             "roundaboutSegs": 29,
             "extStart": 0,
             "extEnd": 0
@@ -6126,7 +6076,7 @@
           "dir": "1",
           "headsign": "Pantelimon",
           "variants": 1,
-          "tripCount": 26,
+          "tripCount": 52,
           "stops": 22,
           "lengthKm": 17.73,
           "stats": {
@@ -6137,7 +6087,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 2.4630346698006576,
+            "meanError": 2.4545597800952947,
             "roundaboutSegs": 19,
             "extStart": 0,
             "extEnd": 0
@@ -6155,7 +6105,7 @@
           "dir": "0",
           "headsign": "Ferma Pantelimon",
           "variants": 1,
-          "tripCount": 65,
+          "tripCount": 161,
           "stops": 9,
           "lengthKm": 4,
           "stats": {
@@ -6176,7 +6126,7 @@
           "dir": "1",
           "headsign": "Pantelimon",
           "variants": 1,
-          "tripCount": 65,
+          "tripCount": 161,
           "stops": 10,
           "lengthKm": 5.04,
           "stats": {
@@ -6205,7 +6155,7 @@
           "dir": "0",
           "headsign": "Victor Dumitrescu",
           "variants": 1,
-          "tripCount": 47,
+          "tripCount": 95,
           "stops": 9,
           "lengthKm": 4.18,
           "stats": {
@@ -6226,7 +6176,7 @@
           "dir": "1",
           "headsign": "Bd. Basarabia",
           "variants": 1,
-          "tripCount": 47,
+          "tripCount": 95,
           "stops": 13,
           "lengthKm": 4.54,
           "stats": {
@@ -6255,7 +6205,7 @@
           "dir": "0",
           "headsign": "Piteasca",
           "variants": 1,
-          "tripCount": 15,
+          "tripCount": 45,
           "stops": 19,
           "lengthKm": 15.96,
           "stats": {
@@ -6266,7 +6216,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 1.9962525191646519,
+            "meanError": 1.9978120304588505,
             "roundaboutSegs": 11,
             "extStart": 0,
             "extEnd": 0
@@ -6276,7 +6226,7 @@
           "dir": "1",
           "headsign": "Pantelimon",
           "variants": 1,
-          "tripCount": 14,
+          "tripCount": 42,
           "stops": 20,
           "lengthKm": 16.1,
           "stats": {
@@ -6287,7 +6237,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 2.534402459467313,
+            "meanError": 2.5264057767045722,
             "roundaboutSegs": 4,
             "extStart": 0,
             "extEnd": 0
@@ -6305,7 +6255,7 @@
           "dir": "0",
           "headsign": "Branesti",
           "variants": 1,
-          "tripCount": 39,
+          "tripCount": 87,
           "stops": 22,
           "lengthKm": 15.17,
           "stats": {
@@ -6316,7 +6266,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 2.474347173483194,
+            "meanError": 2.475995872514806,
             "roundaboutSegs": 16,
             "extStart": 0,
             "extEnd": 0
@@ -6326,7 +6276,7 @@
           "dir": "1",
           "headsign": "Pantelimon",
           "variants": 1,
-          "tripCount": 41,
+          "tripCount": 87,
           "stops": 21,
           "lengthKm": 15.25,
           "stats": {
@@ -6337,7 +6287,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 2.2882503088952753,
+            "meanError": 2.2799545631999445,
             "roundaboutSegs": 16,
             "extStart": 0,
             "extEnd": 0
@@ -6355,7 +6305,7 @@
           "dir": "0",
           "headsign": "Tunari (1 Decembrie)",
           "variants": 1,
-          "tripCount": 64,
+          "tripCount": 146,
           "stops": 26,
           "lengthKm": 10.56,
           "stats": {
@@ -6366,7 +6316,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 1.7254307394818422,
+            "meanError": 1.7259559756317957,
             "roundaboutSegs": 43,
             "extStart": 0,
             "extEnd": 0
@@ -6376,7 +6326,7 @@
           "dir": "1",
           "headsign": "M Aurel Vlaicu",
           "variants": 1,
-          "tripCount": 63,
+          "tripCount": 145,
           "stops": 26,
           "lengthKm": 11.83,
           "stats": {
@@ -6387,7 +6337,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 2.9843448873946166,
+            "meanError": 2.983620141885298,
             "roundaboutSegs": 45,
             "extStart": 0,
             "extEnd": 0
@@ -6405,7 +6355,7 @@
           "dir": "0",
           "headsign": "Primaria Chitila",
           "variants": 1,
-          "tripCount": 20,
+          "tripCount": 48,
           "stops": 21,
           "lengthKm": 16.18,
           "stats": {
@@ -6426,7 +6376,7 @@
           "dir": "1",
           "headsign": "Studiourile Buftea",
           "variants": 1,
-          "tripCount": 21,
+          "tripCount": 50,
           "stops": 22,
           "lengthKm": 16.16,
           "stats": {
@@ -6455,7 +6405,7 @@
           "dir": "0",
           "headsign": "Varteju",
           "variants": 1,
-          "tripCount": 36,
+          "tripCount": 108,
           "stops": 26,
           "lengthKm": 11.98,
           "stats": {
@@ -6476,18 +6426,18 @@
           "dir": "1",
           "headsign": "Depoul Alexandria",
           "variants": 1,
-          "tripCount": 36,
+          "tripCount": 108,
           "stops": 25,
-          "lengthKm": 12.08,
+          "lengthKm": 12.03,
           "stats": {
-            "observations": 604,
-            "matched": 604,
+            "observations": 601,
+            "matched": 601,
             "noCandidates": 0,
             "viterbiBreaks": 0,
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 2.1858604282351544,
+            "meanError": 2.257330034475884,
             "roundaboutSegs": 42,
             "extStart": 0,
             "extEnd": 0
@@ -6505,7 +6455,7 @@
           "dir": "0",
           "headsign": "1 Decembrie",
           "variants": 1,
-          "tripCount": 48,
+          "tripCount": 94,
           "stops": 15,
           "lengthKm": 10.43,
           "stats": {
@@ -6526,7 +6476,7 @@
           "dir": "1",
           "headsign": "C.f.r. Progresul",
           "variants": 1,
-          "tripCount": 47,
+          "tripCount": 95,
           "stops": 14,
           "lengthKm": 10.42,
           "stats": {
@@ -6555,18 +6505,18 @@
           "dir": "0",
           "headsign": "Primaria Chitila",
           "variants": 1,
-          "tripCount": 11,
-          "stops": 21,
-          "lengthKm": 14.66,
+          "tripCount": 33,
+          "stops": 18,
+          "lengthKm": 13.69,
           "stats": {
-            "observations": 680,
-            "matched": 680,
+            "observations": 614,
+            "matched": 614,
             "noCandidates": 0,
             "viterbiBreaks": 0,
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 1.8884393282524763,
+            "meanError": 1.8983434507886634,
             "roundaboutSegs": 54,
             "extStart": 0,
             "extEnd": 0
@@ -6576,18 +6526,18 @@
           "dir": "1",
           "headsign": "Studiourile Buftea",
           "variants": 1,
-          "tripCount": 11,
-          "stops": 22,
-          "lengthKm": 14.59,
+          "tripCount": 33,
+          "stops": 19,
+          "lengthKm": 13.61,
           "stats": {
-            "observations": 663,
-            "matched": 663,
+            "observations": 596,
+            "matched": 596,
             "noCandidates": 0,
             "viterbiBreaks": 0,
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 1.5913930578084965,
+            "meanError": 1.5653660510800889,
             "roundaboutSegs": 20,
             "extStart": 0,
             "extEnd": 0
@@ -6605,9 +6555,9 @@
           "dir": "0",
           "headsign": "Pod Cfr Afumati",
           "variants": 1,
-          "tripCount": 73,
+          "tripCount": 156,
           "stops": 21,
-          "lengthKm": 9.74,
+          "lengthKm": 9.75,
           "stats": {
             "observations": 488,
             "matched": 488,
@@ -6616,7 +6566,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 3.2465186964652317,
+            "meanError": 3.2295834115956747,
             "roundaboutSegs": 21,
             "extStart": 0,
             "extEnd": 0
@@ -6626,7 +6576,7 @@
           "dir": "1",
           "headsign": "Bucur Obor",
           "variants": 1,
-          "tripCount": 73,
+          "tripCount": 154,
           "stops": 20,
           "lengthKm": 8.39,
           "stats": {
@@ -6637,7 +6587,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 0.8707213485288675,
+            "meanError": 0.8765815036820664,
             "roundaboutSegs": 0,
             "extStart": 0,
             "extEnd": 0
@@ -6655,7 +6605,7 @@
           "dir": "0",
           "headsign": "Gagu",
           "variants": 1,
-          "tripCount": 59,
+          "tripCount": 112,
           "stops": 35,
           "lengthKm": 20.67,
           "stats": {
@@ -6676,7 +6626,7 @@
           "dir": "1",
           "headsign": "Bucur Obor",
           "variants": 1,
-          "tripCount": 59,
+          "tripCount": 112,
           "stops": 33,
           "lengthKm": 20.07,
           "stats": {
@@ -6705,7 +6655,7 @@
           "dir": "0",
           "headsign": "Sitaru",
           "variants": 1,
-          "tripCount": 11,
+          "tripCount": 33,
           "stops": 43,
           "lengthKm": 33.9,
           "stats": {
@@ -6726,7 +6676,7 @@
           "dir": "1",
           "headsign": "Bucur Obor",
           "variants": 1,
-          "tripCount": 12,
+          "tripCount": 36,
           "stops": 41,
           "lengthKm": 33.26,
           "stats": {
@@ -6755,7 +6705,7 @@
           "dir": "0",
           "headsign": "Tudor Arghezi",
           "variants": 1,
-          "tripCount": 20,
+          "tripCount": 60,
           "stops": 28,
           "lengthKm": 13.11,
           "stats": {
@@ -6766,7 +6716,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 1.5791643696535715,
+            "meanError": 1.5793815980575951,
             "roundaboutSegs": 27,
             "extStart": 0,
             "extEnd": 0
@@ -6776,7 +6726,7 @@
           "dir": "1",
           "headsign": "Complex Colosseum",
           "variants": 1,
-          "tripCount": 20,
+          "tripCount": 60,
           "stops": 22,
           "lengthKm": 11.56,
           "stats": {
@@ -6787,7 +6737,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 1.7588545415444152,
+            "meanError": 1.7586035433182916,
             "roundaboutSegs": 36,
             "extStart": 0,
             "extEnd": 0
@@ -6805,7 +6755,7 @@
           "dir": "0",
           "headsign": "Caldararu",
           "variants": 1,
-          "tripCount": 28,
+          "tripCount": 66,
           "stops": 13,
           "lengthKm": 12.48,
           "stats": {
@@ -6826,7 +6776,7 @@
           "dir": "1",
           "headsign": "M Nicolae Teclu",
           "variants": 1,
-          "tripCount": 28,
+          "tripCount": 68,
           "stops": 12,
           "lengthKm": 10.89,
           "stats": {
@@ -6855,9 +6805,9 @@
           "dir": "0",
           "headsign": "Strada Garii Pantelimon",
           "variants": 1,
-          "tripCount": 25,
+          "tripCount": 61,
           "stops": 33,
-          "lengthKm": 15.33,
+          "lengthKm": 15.34,
           "stats": {
             "observations": 660,
             "matched": 660,
@@ -6866,7 +6816,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 1.8587480247006793,
+            "meanError": 1.9627439902671224,
             "roundaboutSegs": 90,
             "extStart": 0,
             "extEnd": 0
@@ -6876,7 +6826,7 @@
           "dir": "1",
           "headsign": "Complex Baneasa",
           "variants": 1,
-          "tripCount": 25,
+          "tripCount": 59,
           "stops": 40,
           "lengthKm": 16.22,
           "stats": {
@@ -6887,7 +6837,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 2.047475669975618,
+            "meanError": 2.0572623614539496,
             "roundaboutSegs": 143,
             "extStart": 0,
             "extEnd": 0
@@ -6905,7 +6855,7 @@
           "dir": "0",
           "headsign": "Mega Parc",
           "variants": 1,
-          "tripCount": 43,
+          "tripCount": 77,
           "stops": 23,
           "lengthKm": 14.5,
           "stats": {
@@ -6926,7 +6876,7 @@
           "dir": "1",
           "headsign": "Piata Sudului",
           "variants": 1,
-          "tripCount": 43,
+          "tripCount": 77,
           "stops": 25,
           "lengthKm": 15.18,
           "stats": {
@@ -6955,7 +6905,7 @@
           "dir": "0",
           "headsign": "Pasaj Cfr Chitila",
           "variants": 1,
-          "tripCount": 82,
+          "tripCount": 200,
           "stops": 17,
           "lengthKm": 7.88,
           "stats": {
@@ -6976,7 +6926,7 @@
           "dir": "1",
           "headsign": "M Straulesti",
           "variants": 1,
-          "tripCount": 82,
+          "tripCount": 200,
           "stops": 19,
           "lengthKm": 8.06,
           "stats": {
@@ -7007,16 +6957,16 @@
           "variants": 1,
           "tripCount": 31,
           "stops": 49,
-          "lengthKm": 39.25,
+          "lengthKm": 39.24,
           "stats": {
-            "observations": 1156,
-            "matched": 1156,
+            "observations": 1158,
+            "matched": 1158,
             "noCandidates": 0,
             "viterbiBreaks": 0,
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 2.4371895972969053,
+            "meanError": 2.4173548853413362,
             "roundaboutSegs": 21,
             "extStart": 0,
             "extEnd": 0
@@ -7027,17 +6977,17 @@
           "headsign": "Sitaru",
           "variants": 1,
           "tripCount": 31,
-          "stops": 51,
+          "stops": 50,
           "lengthKm": 39.52,
           "stats": {
-            "observations": 1292,
-            "matched": 1292,
+            "observations": 1243,
+            "matched": 1243,
             "noCandidates": 0,
             "viterbiBreaks": 0,
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 2.9238344191175387,
+            "meanError": 2.964757614992434,
             "roundaboutSegs": 62,
             "extStart": 0,
             "extEnd": 0
@@ -7057,7 +7007,7 @@
           "variants": 1,
           "tripCount": 452,
           "stops": 12,
-          "lengthKm": 4.24,
+          "lengthKm": 4.25,
           "stats": {
             "observations": 164,
             "matched": 164,
@@ -7066,7 +7016,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 3.0311093705579615,
+            "meanError": 3.0367360892752906,
             "roundaboutSegs": 0,
             "extStart": 0,
             "extEnd": 0
@@ -7083,11 +7033,11 @@
             "observations": 147,
             "matched": 144,
             "noCandidates": 3,
-            "viterbiBreaks": 0,
+            "viterbiBreaks": 1,
             "bridged": 0,
             "rawStretchCount": 2,
             "rawMeters": 99,
-            "meanError": 5.078516242077656,
+            "meanError": 5.061239690624887,
             "roundaboutSegs": 30,
             "extStart": 0,
             "extEnd": 0
@@ -7105,7 +7055,7 @@
           "dir": "0",
           "headsign": "Complex Rezidential Allegria",
           "variants": 1,
-          "tripCount": 10,
+          "tripCount": 30,
           "stops": 15,
           "lengthKm": 11.66,
           "stats": {
@@ -7126,7 +7076,7 @@
           "dir": "1",
           "headsign": "Piata Sudului",
           "variants": 1,
-          "tripCount": 9,
+          "tripCount": 27,
           "stops": 16,
           "lengthKm": 12.26,
           "stats": {
@@ -7155,8 +7105,8 @@
           "dir": "0",
           "headsign": "Pasarela M Berceni",
           "variants": 1,
-          "tripCount": 37,
-          "stops": 28,
+          "tripCount": 79,
+          "stops": 29,
           "lengthKm": 14.99,
           "stats": {
             "observations": 592,
@@ -7166,7 +7116,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 2.2032964093403207,
+            "meanError": 2.198906696745108,
             "roundaboutSegs": 47,
             "extStart": 0,
             "extEnd": 0
@@ -7176,8 +7126,8 @@
           "dir": "1",
           "headsign": "M Nicolae Teclu",
           "variants": 1,
-          "tripCount": 37,
-          "stops": 30,
+          "tripCount": 79,
+          "stops": 31,
           "lengthKm": 15.48,
           "stats": {
             "observations": 641,
@@ -7187,7 +7137,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 2.0260138344493384,
+            "meanError": 2.0379679659559398,
             "roundaboutSegs": 19,
             "extStart": 0,
             "extEnd": 0
@@ -7205,7 +7155,7 @@
           "dir": "0",
           "headsign": "Bragadiru Diamantului",
           "variants": 1,
-          "tripCount": 28,
+          "tripCount": 84,
           "stops": 8,
           "lengthKm": 2.99,
           "stats": {
@@ -7216,7 +7166,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 1.6503361343207394,
+            "meanError": 1.6503762583781278,
             "roundaboutSegs": 42,
             "extStart": 0,
             "extEnd": 0
@@ -7226,7 +7176,7 @@
           "dir": "1",
           "headsign": "Scoala Gimnaziala Nr. 1",
           "variants": 1,
-          "tripCount": 28,
+          "tripCount": 84,
           "stops": 9,
           "lengthKm": 4.41,
           "stats": {
@@ -7237,7 +7187,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 1.4439553519320052,
+            "meanError": 1.4427881459515846,
             "roundaboutSegs": 25,
             "extStart": 0,
             "extEnd": 0
@@ -7255,7 +7205,7 @@
           "dir": "0",
           "headsign": "Bragadiru Diamantului",
           "variants": 1,
-          "tripCount": 38,
+          "tripCount": 114,
           "stops": 19,
           "lengthKm": 7.34,
           "stats": {
@@ -7266,7 +7216,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 2.035738648226073,
+            "meanError": 2.0363707806551563,
             "roundaboutSegs": 36,
             "extStart": 0,
             "extEnd": 0
@@ -7276,7 +7226,7 @@
           "dir": "1",
           "headsign": "Scoala Gimnaziala Nr. 1",
           "variants": 1,
-          "tripCount": 38,
+          "tripCount": 114,
           "stops": 8,
           "lengthKm": 3.88,
           "stats": {
@@ -7287,7 +7237,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 1.3112749851741645,
+            "meanError": 1.3113246538992551,
             "roundaboutSegs": 28,
             "extStart": 0,
             "extEnd": 0
@@ -7316,7 +7266,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 2.186664254420775,
+            "meanError": 2.1852595686840615,
             "roundaboutSegs": 9,
             "extStart": 0,
             "extEnd": 0
@@ -7355,19 +7305,19 @@
           "dir": "0",
           "headsign": "Ghencea",
           "variants": 1,
-          "tripCount": 86,
-          "stops": 13,
-          "lengthKm": 6.41,
+          "tripCount": 125,
+          "stops": 17,
+          "lengthKm": 8.15,
           "stats": {
-            "observations": 13,
-            "matched": 13,
+            "observations": 244,
+            "matched": 244,
             "noCandidates": 0,
             "viterbiBreaks": 0,
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 3.728408634722742,
-            "roundaboutSegs": 0,
+            "meanError": 2.347525400896419,
+            "roundaboutSegs": 25,
             "extStart": 0,
             "extEnd": 0
           }
@@ -7377,18 +7327,18 @@
           "headsign": "Bragadiru Diamantului",
           "variants": 1,
           "tripCount": 124,
-          "stops": 15,
-          "lengthKm": 6.99,
+          "stops": 18,
+          "lengthKm": 8.16,
           "stats": {
-            "observations": 237,
-            "matched": 237,
+            "observations": 295,
+            "matched": 295,
             "noCandidates": 0,
             "viterbiBreaks": 0,
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 2.180846943522376,
-            "roundaboutSegs": 0,
+            "meanError": 2.233400219640013,
+            "roundaboutSegs": 20,
             "extStart": 0,
             "extEnd": 0
           }
@@ -7402,22 +7352,43 @@
       "color": "#0059a9",
       "dirs": [
         {
-          "dir": "1",
-          "headsign": "Smardan",
+          "dir": "0",
+          "headsign": "Depoul Alexandria",
           "variants": 1,
           "tripCount": 67,
-          "stops": 6,
-          "lengthKm": 2.24,
+          "stops": 9,
+          "lengthKm": 4.06,
           "stats": {
-            "observations": 57,
-            "matched": 57,
+            "observations": 99,
+            "matched": 99,
             "noCandidates": 0,
             "viterbiBreaks": 0,
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 3.6613622338061176,
-            "roundaboutSegs": 0,
+            "meanError": 2.3734847487736093,
+            "roundaboutSegs": 25,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Bragadiru Diamantului",
+          "variants": 1,
+          "tripCount": 67,
+          "stops": 10,
+          "lengthKm": 4.11,
+          "stats": {
+            "observations": 123,
+            "matched": 123,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.902190835857513,
+            "roundaboutSegs": 20,
             "extStart": 0,
             "extEnd": 0
           }
@@ -7434,19 +7405,19 @@
           "dir": "0",
           "headsign": "Parcul Drumul Taberei",
           "variants": 1,
-          "tripCount": 116,
-          "stops": 4,
-          "lengthKm": 1.27,
+          "tripCount": 198,
+          "stops": 14,
+          "lengthKm": 6.11,
           "stats": {
-            "observations": 4,
-            "matched": 4,
+            "observations": 288,
+            "matched": 288,
             "noCandidates": 0,
             "viterbiBreaks": 0,
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 3.2103719107200095,
-            "roundaboutSegs": 0,
+            "meanError": 2.0526808462872923,
+            "roundaboutSegs": 31,
             "extStart": 0,
             "extEnd": 0
           }
@@ -7455,19 +7426,19 @@
           "dir": "1",
           "headsign": "Bragadiru Diamantului",
           "variants": 1,
-          "tripCount": 116,
-          "stops": 6,
-          "lengthKm": 2.05,
+          "tripCount": 198,
+          "stops": 15,
+          "lengthKm": 5.34,
           "stats": {
-            "observations": 6,
-            "matched": 6,
+            "observations": 245,
+            "matched": 245,
             "noCandidates": 0,
             "viterbiBreaks": 0,
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 2.1345449327895487,
-            "roundaboutSegs": 9,
+            "meanError": 1.7254327579501987,
+            "roundaboutSegs": 11,
             "extStart": 0,
             "extEnd": 0
           }
@@ -7495,7 +7466,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 2.964687494802533,
+            "meanError": 2.963864826494307,
             "roundaboutSegs": 51,
             "extStart": 0,
             "extEnd": 0
@@ -7516,7 +7487,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 2.8155742405967197,
+            "meanError": 2.809257748138298,
             "roundaboutSegs": 52,
             "extStart": 0,
             "extEnd": 0
@@ -7534,7 +7505,7 @@
           "dir": "0",
           "headsign": "Elisabeta Rizea",
           "variants": 1,
-          "tripCount": 25,
+          "tripCount": 61,
           "stops": 18,
           "lengthKm": 7.61,
           "stats": {
@@ -7545,7 +7516,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 1.1930342029516952,
+            "meanError": 1.1938547795565746,
             "roundaboutSegs": 30,
             "extStart": 0,
             "extEnd": 0
@@ -7555,7 +7526,7 @@
           "dir": "1",
           "headsign": "M Pipera",
           "variants": 1,
-          "tripCount": 25,
+          "tripCount": 61,
           "stops": 21,
           "lengthKm": 10.23,
           "stats": {
@@ -7566,7 +7537,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 2.762743331929353,
+            "meanError": 2.7619522022491565,
             "roundaboutSegs": 55,
             "extStart": 0,
             "extEnd": 0
@@ -7586,7 +7557,7 @@
           "variants": 1,
           "tripCount": 391,
           "stops": 9,
-          "lengthKm": 4.04,
+          "lengthKm": 4.2,
           "stats": {
             "observations": 202,
             "matched": 202,
@@ -7595,7 +7566,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 3.682903891204837,
+            "meanError": 3.683139471561936,
             "roundaboutSegs": 0,
             "extStart": 0,
             "extEnd": 0
@@ -7616,7 +7587,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 2.4803566426233608,
+            "meanError": 2.426929061131967,
             "roundaboutSegs": 0,
             "extStart": 0,
             "extEnd": 0
@@ -7632,20 +7603,20 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "Soseaua Panduri",
+          "headsign": "Ghencea",
           "variants": 1,
-          "tripCount": 398,
-          "stops": 16,
-          "lengthKm": 7.09,
+          "tripCount": 299,
+          "stops": 23,
+          "lengthKm": 9.43,
           "stats": {
-            "observations": 304,
-            "matched": 304,
+            "observations": 390,
+            "matched": 390,
             "noCandidates": 0,
             "viterbiBreaks": 0,
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 3.2172149602607942,
+            "meanError": 2.754488250361904,
             "roundaboutSegs": 0,
             "extStart": 0,
             "extEnd": 0
@@ -7655,18 +7626,18 @@
           "dir": "1",
           "headsign": "Bd. Banu Manta",
           "variants": 1,
-          "tripCount": 397,
-          "stops": 16,
-          "lengthKm": 7.55,
+          "tripCount": 301,
+          "stops": 19,
+          "lengthKm": 9.55,
           "stats": {
-            "observations": 279,
-            "matched": 279,
+            "observations": 371,
+            "matched": 371,
             "noCandidates": 0,
             "viterbiBreaks": 0,
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 3.7717683577700436,
+            "meanError": 3.3028148230385765,
             "roundaboutSegs": 0,
             "extStart": 0,
             "extEnd": 0
@@ -7784,7 +7755,7 @@
           "dir": "0",
           "headsign": "Piata Sf. Vineri",
           "variants": 1,
-          "tripCount": 290,
+          "tripCount": 310,
           "stops": 15,
           "lengthKm": 6.54,
           "stats": {
@@ -7805,7 +7776,7 @@
           "dir": "1",
           "headsign": "M Republica",
           "variants": 1,
-          "tripCount": 290,
+          "tripCount": 310,
           "stops": 16,
           "lengthKm": 7.02,
           "stats": {
@@ -7816,7 +7787,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 2.5613208413594686,
+            "meanError": 2.561134005260032,
             "roundaboutSegs": 0,
             "extStart": 0,
             "extEnd": 0
@@ -7935,7 +7906,7 @@
           "headsign": "Piata Unirii 2",
           "variants": 1,
           "tripCount": 42,
-          "stops": 7,
+          "stops": 13,
           "lengthKm": 10.63,
           "stats": {
             "observations": 321,
@@ -7945,7 +7916,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 1.93114169584621,
+            "meanError": 1.9810939595565529,
             "roundaboutSegs": 9,
             "extStart": 0,
             "extEnd": 0
@@ -7966,7 +7937,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 3.623722221518837,
+            "meanError": 3.624076293936788,
             "roundaboutSegs": 24,
             "extStart": 0,
             "extEnd": 0
@@ -7984,7 +7955,7 @@
           "dir": "0",
           "headsign": "Bd. Banu Manta",
           "variants": 1,
-          "tripCount": 415,
+          "tripCount": 411,
           "stops": 29,
           "lengthKm": 13.62,
           "stats": {
@@ -8005,7 +7976,7 @@
           "dir": "1",
           "headsign": "Romprim",
           "variants": 1,
-          "tripCount": 416,
+          "tripCount": 412,
           "stops": 31,
           "lengthKm": 13.52,
           "stats": {
@@ -8034,7 +8005,7 @@
           "dir": "0",
           "headsign": "Pantelimon",
           "variants": 1,
-          "tripCount": 329,
+          "tripCount": 326,
           "stops": 25,
           "lengthKm": 12.76,
           "stats": {
@@ -8045,7 +8016,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 1.1188736782928916,
+            "meanError": 1.117936932661078,
             "roundaboutSegs": 0,
             "extStart": 0,
             "extEnd": 0
@@ -8055,7 +8026,7 @@
           "dir": "1",
           "headsign": "Aeroport Baneasa",
           "variants": 1,
-          "tripCount": 308,
+          "tripCount": 305,
           "stops": 25,
           "lengthKm": 12.61,
           "stats": {
@@ -8066,7 +8037,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 1.037395873080256,
+            "meanError": 1.0363875663971864,
             "roundaboutSegs": 0,
             "extStart": 0,
             "extEnd": 0
@@ -8084,7 +8055,7 @@
           "dir": "0",
           "headsign": "Piata Unirii",
           "variants": 1,
-          "tripCount": 295,
+          "tripCount": 291,
           "stops": 17,
           "lengthKm": 7.3,
           "stats": {
@@ -8105,7 +8076,7 @@
           "dir": "1",
           "headsign": "C.F.R. Progresul",
           "variants": 1,
-          "tripCount": 295,
+          "tripCount": 291,
           "stops": 17,
           "lengthKm": 7.05,
           "stats": {
@@ -8134,7 +8105,7 @@
           "dir": "0",
           "headsign": "Ghencea",
           "variants": 1,
-          "tripCount": 434,
+          "tripCount": 427,
           "stops": 21,
           "lengthKm": 9.97,
           "stats": {
@@ -8145,7 +8116,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 1.5928906046536293,
+            "meanError": 1.5927684314987771,
             "roundaboutSegs": 0,
             "extStart": 0,
             "extEnd": 0
@@ -8155,7 +8126,7 @@
           "dir": "1",
           "headsign": "Romprim",
           "variants": 1,
-          "tripCount": 435,
+          "tripCount": 428,
           "stops": 21,
           "lengthKm": 9.97,
           "stats": {
@@ -8166,7 +8137,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 1.4501536500655954,
+            "meanError": 1.4501429276495863,
             "roundaboutSegs": 0,
             "extStart": 0,
             "extEnd": 0
@@ -8184,7 +8155,7 @@
           "dir": "0",
           "headsign": "Pasaj Colentina",
           "variants": 1,
-          "tripCount": 519,
+          "tripCount": 508,
           "stops": 14,
           "lengthKm": 7.26,
           "stats": {
@@ -8205,7 +8176,7 @@
           "dir": "1",
           "headsign": "Piata Sf. Gheorghe",
           "variants": 1,
-          "tripCount": 519,
+          "tripCount": 508,
           "stops": 14,
           "lengthKm": 7.13,
           "stats": {
@@ -8234,7 +8205,7 @@
           "dir": "0",
           "headsign": "Faur",
           "variants": 1,
-          "tripCount": 200,
+          "tripCount": 198,
           "stops": 35,
           "lengthKm": 14.46,
           "stats": {
@@ -8255,7 +8226,7 @@
           "dir": "1",
           "headsign": "Zetarilor",
           "variants": 1,
-          "tripCount": 201,
+          "tripCount": 198,
           "stops": 36,
           "lengthKm": 14.32,
           "stats": {
@@ -8284,7 +8255,7 @@
           "dir": "0",
           "headsign": "Depoul Militari",
           "variants": 1,
-          "tripCount": 450,
+          "tripCount": 445,
           "stops": 34,
           "lengthKm": 16.33,
           "stats": {
@@ -8295,7 +8266,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 1.3665149563600416,
+            "meanError": 1.343876691990544,
             "roundaboutSegs": 0,
             "extStart": 0,
             "extEnd": 0
@@ -8305,7 +8276,7 @@
           "dir": "1",
           "headsign": "C.F.R. Progresul",
           "variants": 1,
-          "tripCount": 450,
+          "tripCount": 445,
           "stops": 34,
           "lengthKm": 16.04,
           "stats": {
@@ -8316,7 +8287,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 1.121387768704286,
+            "meanError": 1.1114158257998212,
             "roundaboutSegs": 0,
             "extStart": 0,
             "extEnd": 0
@@ -8334,7 +8305,7 @@
           "dir": "0",
           "headsign": "Piata Unirii",
           "variants": 1,
-          "tripCount": 194,
+          "tripCount": 191,
           "stops": 21,
           "lengthKm": 8.73,
           "stats": {
@@ -8355,7 +8326,7 @@
           "dir": "1",
           "headsign": "Faur",
           "variants": 1,
-          "tripCount": 202,
+          "tripCount": 200,
           "stops": 21,
           "lengthKm": 8.72,
           "stats": {
@@ -8384,7 +8355,7 @@
           "dir": "0",
           "headsign": "Piata Unirii",
           "variants": 1,
-          "tripCount": 596,
+          "tripCount": 581,
           "stops": 11,
           "lengthKm": 5.37,
           "stats": {
@@ -8405,7 +8376,7 @@
           "dir": "1",
           "headsign": "Depoul Alexandria",
           "variants": 1,
-          "tripCount": 596,
+          "tripCount": 581,
           "stops": 11,
           "lengthKm": 5.3,
           "stats": {
@@ -8434,7 +8405,7 @@
           "dir": "0",
           "headsign": "Ghencea",
           "variants": 1,
-          "tripCount": 779,
+          "tripCount": 540,
           "stops": 15,
           "lengthKm": 9.72,
           "stats": {
@@ -8445,7 +8416,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 0.920439207994986,
+            "meanError": 0.9204512532391198,
             "roundaboutSegs": 0,
             "extStart": 0,
             "extEnd": 0
@@ -8455,7 +8426,7 @@
           "dir": "1",
           "headsign": "Piata Presei",
           "variants": 1,
-          "tripCount": 779,
+          "tripCount": 540,
           "stops": 15,
           "lengthKm": 9.61,
           "stats": {
@@ -8466,7 +8437,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 0.9159187946968738,
+            "meanError": 0.9159202035291851,
             "roundaboutSegs": 0,
             "extStart": 0,
             "extEnd": 0
@@ -8482,10 +8453,10 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "Vasile Parvan",
+          "headsign": "Gara Basarab",
           "variants": 1,
-          "tripCount": 424,
-          "stops": 15,
+          "tripCount": 427,
+          "stops": 13,
           "lengthKm": 4.67,
           "stats": {
             "observations": 184,
@@ -8506,7 +8477,7 @@
           "headsign": "Cartier Giulesti",
           "variants": 1,
           "tripCount": 426,
-          "stops": 17,
+          "stops": 13,
           "lengthKm": 4.61,
           "stats": {
             "observations": 166,
@@ -8516,7 +8487,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 0.7601097372607102,
+            "meanError": 0.7236066794435212,
             "roundaboutSegs": 0,
             "extStart": 0,
             "extEnd": 0
@@ -8534,7 +8505,7 @@
           "dir": "0",
           "headsign": "Depoul Bucurestii Noi",
           "variants": 1,
-          "tripCount": 314,
+          "tripCount": 311,
           "stops": 7,
           "lengthKm": 2.09,
           "stats": {
@@ -8555,7 +8526,7 @@
           "dir": "1",
           "headsign": "Mezes",
           "variants": 1,
-          "tripCount": 314,
+          "tripCount": 311,
           "stops": 7,
           "lengthKm": 2.09,
           "stats": {
@@ -8584,7 +8555,7 @@
           "dir": "0",
           "headsign": "Piata Unirii",
           "variants": 1,
-          "tripCount": 244,
+          "tripCount": 243,
           "stops": 23,
           "lengthKm": 10.14,
           "stats": {
@@ -8605,7 +8576,7 @@
           "dir": "1",
           "headsign": "Sura Mare",
           "variants": 1,
-          "tripCount": 242,
+          "tripCount": 239,
           "stops": 24,
           "lengthKm": 10.48,
           "stats": {
@@ -8645,7 +8616,7 @@
             "bridged": 0,
             "rawStretchCount": 2,
             "rawMeters": 320,
-            "meanError": 14.07944157823081,
+            "meanError": 14.079436761220194,
             "roundaboutSegs": 0,
             "extStart": 0,
             "extEnd": 0
@@ -8666,7 +8637,7 @@
             "bridged": 0,
             "rawStretchCount": 1,
             "rawMeters": 20,
-            "meanError": 14.464224496760043,
+            "meanError": 14.461299194841857,
             "roundaboutSegs": 0,
             "extStart": 0,
             "extEnd": 0
@@ -8884,7 +8855,7 @@
           "dir": "0",
           "headsign": "Bd. Banu Manta",
           "variants": 1,
-          "tripCount": 26,
+          "tripCount": 39,
           "stops": 28,
           "lengthKm": 13.57,
           "stats": {
@@ -8905,8 +8876,8 @@
           "dir": "1",
           "headsign": "Romprim",
           "variants": 1,
-          "tripCount": 26,
-          "stops": 28,
+          "tripCount": 39,
+          "stops": 29,
           "lengthKm": 14.86,
           "stats": {
             "observations": 643,
@@ -8916,7 +8887,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 3.8559556827132124,
+            "meanError": 3.861843826086235,
             "roundaboutSegs": 0,
             "extStart": 0,
             "extEnd": 0
@@ -8935,17 +8906,17 @@
           "headsign": "Bd. Banu Manta",
           "variants": 1,
           "tripCount": 39,
-          "stops": 31,
-          "lengthKm": 15.34,
+          "stops": 29,
+          "lengthKm": 15.32,
           "stats": {
-            "observations": 515,
-            "matched": 515,
+            "observations": 541,
+            "matched": 541,
             "noCandidates": 0,
             "viterbiBreaks": 0,
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 3.234810897003416,
+            "meanError": 3.3358459278285513,
             "roundaboutSegs": 0,
             "extStart": 0,
             "extEnd": 0
@@ -8995,7 +8966,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 1.848404708036847,
+            "meanError": 1.8507076313999706,
             "roundaboutSegs": 9,
             "extStart": 0,
             "extEnd": 0
@@ -9016,7 +8987,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 1.645045667462563,
+            "meanError": 1.650615816634223,
             "roundaboutSegs": 6,
             "extStart": 0,
             "extEnd": 0
@@ -9045,7 +9016,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 3.6128730398648234,
+            "meanError": 3.59249175248223,
             "roundaboutSegs": 10,
             "extStart": 0,
             "extEnd": 0
@@ -9066,7 +9037,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 2.046166314907672,
+            "meanError": 2.04614950424139,
             "roundaboutSegs": 27,
             "extStart": 0,
             "extEnd": 0
@@ -9086,7 +9057,7 @@
           "variants": 1,
           "tripCount": 39,
           "stops": 26,
-          "lengthKm": 10.35,
+          "lengthKm": 10.51,
           "stats": {
             "observations": 473,
             "matched": 473,
@@ -9095,7 +9066,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 3.5285235811565143,
+            "meanError": 3.5158515136350306,
             "roundaboutSegs": 0,
             "extStart": 0,
             "extEnd": 0
@@ -9116,7 +9087,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 2.5312974131390824,
+            "meanError": 2.531284173914646,
             "roundaboutSegs": 0,
             "extStart": 0,
             "extEnd": 0
@@ -9145,8 +9116,8 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 2.2472850580574106,
-            "roundaboutSegs": 57,
+            "meanError": 2.2996191857948887,
+            "roundaboutSegs": 59,
             "extStart": 0,
             "extEnd": 0
           }
@@ -9166,8 +9137,8 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 3.2369341099289737,
-            "roundaboutSegs": 46,
+            "meanError": 3.1759969296327597,
+            "roundaboutSegs": 49,
             "extStart": 0,
             "extEnd": 0
           }
@@ -9195,7 +9166,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 2.4483144139438022,
+            "meanError": 2.449160592761508,
             "roundaboutSegs": 19,
             "extStart": 0,
             "extEnd": 0
@@ -9245,7 +9216,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 3.24380946027191,
+            "meanError": 3.240248837073445,
             "roundaboutSegs": 3,
             "extStart": 0,
             "extEnd": 0
@@ -9266,7 +9237,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 4.096329120110469,
+            "meanError": 4.109491656408294,
             "roundaboutSegs": 23,
             "extStart": 0,
             "extEnd": 0
@@ -9295,7 +9266,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 1.8057362807230304,
+            "meanError": 1.8070833227379814,
             "roundaboutSegs": 0,
             "extStart": 0,
             "extEnd": 0
@@ -9338,14 +9309,14 @@
           "stops": 19,
           "lengthKm": 8.25,
           "stats": {
-            "observations": 398,
-            "matched": 398,
+            "observations": 397,
+            "matched": 397,
             "noCandidates": 0,
             "viterbiBreaks": 0,
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 3.0781723271274086,
+            "meanError": 3.1369399336657833,
             "roundaboutSegs": 0,
             "extStart": 0,
             "extEnd": 0
@@ -9366,7 +9337,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 1.3673776621231877,
+            "meanError": 1.3976124734734288,
             "roundaboutSegs": 15,
             "extStart": 0,
             "extEnd": 0
@@ -9395,7 +9366,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 2.511785909287253,
+            "meanError": 2.5054686346955957,
             "roundaboutSegs": 0,
             "extStart": 0,
             "extEnd": 0
@@ -9416,7 +9387,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 1.456228107271156,
+            "meanError": 1.4561992451762935,
             "roundaboutSegs": 0,
             "extStart": 0,
             "extEnd": 0
@@ -9445,7 +9416,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 2.4775983395184085,
+            "meanError": 2.4705437087872073,
             "roundaboutSegs": 0,
             "extStart": 0,
             "extEnd": 0
@@ -9466,7 +9437,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 1.6055914519307168,
+            "meanError": 1.6060219745815236,
             "roundaboutSegs": 0,
             "extStart": 0,
             "extEnd": 0
@@ -9495,7 +9466,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 2.2361327135363105,
+            "meanError": 2.237019869536472,
             "roundaboutSegs": 0,
             "extStart": 0,
             "extEnd": 0
@@ -9545,7 +9516,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 2.2293365084310524,
+            "meanError": 2.2305999409416266,
             "roundaboutSegs": 0,
             "extStart": 0,
             "extEnd": 0
@@ -9595,7 +9566,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 2.8484297642823297,
+            "meanError": 2.8486015141578886,
             "roundaboutSegs": 5,
             "extStart": 0,
             "extEnd": 0
@@ -9616,7 +9587,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 1.4736050880689664,
+            "meanError": 1.4740400267723808,
             "roundaboutSegs": 5,
             "extStart": 0,
             "extEnd": 0
@@ -9645,7 +9616,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 2.2566463585024876,
+            "meanError": 2.2567735493604673,
             "roundaboutSegs": 0,
             "extStart": 0,
             "extEnd": 0
@@ -9695,7 +9666,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 3.324349514379515,
+            "meanError": 3.3147100582103555,
             "roundaboutSegs": 0,
             "extStart": 0,
             "extEnd": 0
@@ -9716,7 +9687,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 1.6351973062766756,
+            "meanError": 1.635526953325669,
             "roundaboutSegs": 0,
             "extStart": 0,
             "extEnd": 0
@@ -9736,7 +9707,7 @@
           "variants": 1,
           "tripCount": 39,
           "stops": 20,
-          "lengthKm": 9.42,
+          "lengthKm": 9.41,
           "stats": {
             "observations": 450,
             "matched": 450,
@@ -9745,7 +9716,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 3.335275540930387,
+            "meanError": 3.3553255595488967,
             "roundaboutSegs": 14,
             "extStart": 0,
             "extEnd": 0
@@ -9757,7 +9728,7 @@
           "variants": 1,
           "tripCount": 39,
           "stops": 20,
-          "lengthKm": 9.44,
+          "lengthKm": 9.45,
           "stats": {
             "observations": 402,
             "matched": 402,
@@ -9766,7 +9737,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 3.0744862938269764,
+            "meanError": 3.0969639036833176,
             "roundaboutSegs": 0,
             "extStart": 0,
             "extEnd": 0
@@ -9795,7 +9766,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 3.8679060134704657,
+            "meanError": 3.8680397051349638,
             "roundaboutSegs": 15,
             "extStart": 0,
             "extEnd": 0
@@ -9816,7 +9787,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 3.248158790714011,
+            "meanError": 3.2481421259979335,
             "roundaboutSegs": 5,
             "extStart": 0,
             "extEnd": 0
@@ -9845,7 +9816,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 3.068188270126458,
+            "meanError": 3.0682979039641642,
             "roundaboutSegs": 0,
             "extStart": 0,
             "extEnd": 0
@@ -9895,7 +9866,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 3.199990998142334,
+            "meanError": 3.2001387060986812,
             "roundaboutSegs": 12,
             "extStart": 0,
             "extEnd": 0
@@ -9916,7 +9887,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 2.19884929990115,
+            "meanError": 2.198836083057365,
             "roundaboutSegs": 33,
             "extStart": 0,
             "extEnd": 0
@@ -9945,7 +9916,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 3.5634307513702983,
+            "meanError": 3.549887630124784,
             "roundaboutSegs": 15,
             "extStart": 0,
             "extEnd": 0
@@ -9966,7 +9937,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 2.345574105124867,
+            "meanError": 2.345560929197241,
             "roundaboutSegs": 16,
             "extStart": 0,
             "extEnd": 0
@@ -9985,17 +9956,17 @@
           "headsign": "Valea Argesului",
           "variants": 1,
           "tripCount": 39,
-          "stops": 26,
+          "stops": 27,
           "lengthKm": 11.5,
           "stats": {
-            "observations": 514,
-            "matched": 514,
+            "observations": 513,
+            "matched": 513,
             "noCandidates": 0,
             "viterbiBreaks": 0,
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 2.9079644315936015,
+            "meanError": 2.897319884540023,
             "roundaboutSegs": 20,
             "extStart": 0,
             "extEnd": 0
@@ -10016,7 +9987,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 3.091074352772105,
+            "meanError": 3.124546567557869,
             "roundaboutSegs": 5,
             "extStart": 0,
             "extEnd": 0
@@ -10045,7 +10016,7 @@
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 3.0304903293284027,
+            "meanError": 3.0316108046435915,
             "roundaboutSegs": 0,
             "extStart": 0,
             "extEnd": 0

@@ -49,6 +49,18 @@ if [ ! -f data/gtfs/routes.txt ]; then
   unzip -o data/bucharest-region.zip -d data/gtfs
 fi
 
+# Overpass down (every public mirror answers 504 for hours at a time — the
+# wall Berlin, London, Kraków, Athens and Bucharest all hit): cut the same
+# files out of the Geofabrik extract instead. pipeline/pbf-cut.py writes the
+# JSON shape Overpass would have returned; needs `pip3 install --user osmium`.
+pbf_fallback () {
+  echo "== Overpass failed — Geofabrik extract + pipeline/pbf-cut.py ==" >&2
+  if [ ! -f data/romania-latest.osm.pbf ]; then
+    curl -fL --retry 5 --retry-delay 5 -C - --max-time 3600 -o data/romania-latest.osm.pbf "https://download.geofabrik.de/europe/romania-latest.osm.pbf"
+  fi
+  python3 pipeline/pbf-cut.py data/romania-latest.osm.pbf road:data/osm/bucharest.json:44.20,25.80,44.80,26.45 rail:data/osm/bucharest-rail.json:44.20,25.80,44.80,26.45 names:data/osm/bucharest-names.json:44.20,25.80,44.80,26.45
+}
+
 # 2) OSM — roadways over the whole region (GTFS stops extent 44.26–44.75 N,
 #    25.87–26.39 E plus margin: Ilfov ring communes on every side)
 if [ ! -f data/osm/bucharest.json ]; then
@@ -64,7 +76,7 @@ if [ ! -f data/osm/bucharest.json ]; then
       ok=1; break
     fi
   done
-  [ "$ok" = 1 ] || { rm -f data/osm/bucharest.json; echo "Overpass: all mirrors failed" >&2; exit 1; }
+  [ "$ok" = 1 ] || { rm -f data/osm/bucharest.json; pbf_fallback; }
 fi
 
 # 2b) OSM — rails for the tram+metro mode: tram tracks, metro tunnels
@@ -83,7 +95,7 @@ if [ ! -f data/osm/bucharest-rail.json ]; then
       ok=1; break
     fi
   done
-  [ "$ok" = 1 ] || { rm -f data/osm/bucharest-rail.json; echo "Overpass (rails): all mirrors failed" >&2; exit 1; }
+  [ "$ok" = 1 ] || { rm -f data/osm/bucharest-rail.json; pbf_fallback; }
 fi
 
 # 3) MapLibre GL (vendored, no CDN at runtime)

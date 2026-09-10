@@ -15,6 +15,7 @@ import { iterCsv, readCsv } from './lib/csv.mjs';
 import { makeProj, resample, nearestOnPolyline, polylineLength } from './lib/geo.mjs';
 import { buildGraph } from './lib/graph.mjs';
 import { matchShape, extendToStops } from './lib/hmm.mjs';
+import { buildNameDict, restoreDiacritics, commaBelow } from './lib/romanian.mjs';
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..');
 // m — longer jumps between shape points are GTFS data gaps. Inside a real gap
@@ -162,6 +163,22 @@ if (tramAll || metroSel.length) MODES.push({
 // misplaced pole is not only a dot in the wrong place: where a feed ships no
 // shapes, the stop sequence IS the matching observation, so the whole line gets
 // dragged into a detour. Empty until a pole is found to be wrong.
+// The dictionary of properly written Romanian word forms, harvested from the
+// OSM extracts the build reads anyway (road names) plus the named objects cut
+// for that purpose (data/osm/bucharest-names.json; download.sh / pbf-cut.py).
+const nameDict = (() => {
+  const docs = [];
+  for (const f of ['data/osm/bucharest.json', 'data/osm/bucharest-names.json']) {
+    const p = join(ROOT, f);
+    if (!existsSync(p)) continue;
+    try { docs.push(JSON.parse(readFileSync(p, 'utf8'))); } catch { /* unreadable extract: skip */ }
+  }
+  const d = buildNameDict(docs);
+  log(`Romanian names: dictionary of ${d.size} diacritic word forms from ${docs.length} OSM extract(s)` +
+      (d.ambiguous ? ` (${d.ambiguous} folds written two ways in OSM — left as the feed writes them)` : ''));
+  return d;
+})();
+
 const STOP_FIX = {};
 
 function mergeRuns(all) {
@@ -335,10 +352,15 @@ async function processMode(cfg) {
     // acronyms (PKP, KWK)
     const titleCase = (s) => s.replace(/[^\s\-,.\/()]+/g, (w) =>
       (w.length > 3 && w === w.toUpperCase() ? w[0] + w.slice(1).toLowerCase() : w));
+    // The feed writes its stops without diacritics ("Piata Gorjului"); OSM
+    // holds the same words written properly. See lib/romanian.mjs.
+    let renamed = 0;
     for (const s of await readCsv(join(fdir, 'stops.txt'))) {
       // feed names carry double spaces here and there — collapse for clean labels
-      let name = (s.stop_name || '').replace(/\s+/g, ' ').trim();
+      let name = commaBelow((s.stop_name || '').replace(/\s+/g, ' ').trim());
       if (feed.titleCase) name = titleCase(name);
+      const fixed = restoreDiacritics(name, nameDict);
+      if (fixed !== name) { renamed++; name = fixed; }
       const fix = STOP_FIX[feed.tag + ':' + s.stop_id];
       stopsById.set(feed.tag + ':' + s.stop_id, {
         name,
@@ -346,6 +368,7 @@ async function processMode(cfg) {
         lon: fix ? fix[1] : Number(s.stop_lon),
       });
     }
+    if (renamed) log(`  diacritics: ${renamed} stop names rewritten through the OSM dictionary`);
 
     if (hasShapes) {
       const shapeIds = new Set(feedReps.map((r) => r.shapeId));
