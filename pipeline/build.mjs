@@ -35,6 +35,8 @@ const TROLLEY_DARK = '#0a5121';
 const MLINE_YELLOW = '#e8a000';
 const MLINE_DARK = '#7d5600';
 
+// Lines that run round the clock (meta.json h24, underlined in black on the map)
+const H24 = new Set(['bus|100']);
 const t0 = Date.now();
 const log = (m) => console.log(`[${((Date.now() - t0) / 1000).toFixed(1)}s] ${m}`);
 // Natural line order everywhere lists are composed (street number rows,
@@ -1559,7 +1561,9 @@ writeFileSync(join(outDir, 'meta.json'), JSON.stringify({
   bbox: [bLonMin, bLatMin, bLonMax, bLatMax],
   badgeBands: BADGE_BANDS,
   modes: MODES.map((m) => ({ mode: m.mode, label: m.label, color: m.color })),
-  lines: metaLines.map((l) => ({ ...l, rank: lineRank(l.line) })),
+  // h24: lines running round the clock — the map underlines their number in
+  // black (user 17.09.2026: the 100 airport express is 24/7)
+  lines: metaLines.map((l) => ({ ...l, rank: lineRank(l.line), ...(H24.has(l.mode + '|' + l.line) ? { h24: 1 } : {}) })),
 }, null, 2));
 log(`Wrote data/out/{route,streets,labels,street-names,stops,badges,gtfs-shape}.geojson + meta.json`);
 

@@ -58,3 +58,7 @@ map-matches every line (HMM/Viterbi on the OSM graphs) and writes GeoJSON to
 
 Data: TPBI (STB, Metrorex, STV, STCM, Regio Serv Transport) ·
 base map © OpenFreeMap / OpenMapTiles / OpenStreetMap contributors.
+
+## 17.09.2026 — requested fixes
+
+- **24/7 lines underlined.** Lines running round the clock carry `h24` in `meta.json` (here the 100 airport express); the panel chip and the terminus badges underline the number in black, the PDF export too.

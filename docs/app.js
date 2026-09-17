@@ -207,7 +207,7 @@ async function init() {
   document.getElementById('count').textContent = `(${nBus} bus & trolleybus · ${nTram} tram · ${nMetro} metro)`;
   document.getElementById('stamp').textContent = new Date(meta.generatedAt).toLocaleDateString('en-GB');
   document.getElementById('chips').innerHTML = meta.lines
-    .map((l) => `<button class="chip" data-line="${esc(l.line)}" style="background:${esc(l.color)}">${esc(l.line)}</button>`)
+    .map((l) => `<button class="chip${l.h24 ? ' h24' : ''}" data-line="${esc(l.line)}" style="background:${esc(l.color)}">${esc(l.line)}</button>`)
     .join(' ');
 
   // Line layers go below the base style labels (street names stay readable).
@@ -441,8 +441,11 @@ async function init() {
   };
   // Terminus badge box: translucent rounded rectangle rimmed in the line color;
   // registered as a STRETCHABLE image so icon-text-fit wraps it around any number.
-  const badgeBox = (rim) => {
-    const W = 26, H = 20, LW = 2.5;
+  // h24: a line running round the clock gets a BLACK BAR under its number
+  // (user 17.09.2026: "czarne podkreślenie numeru"): the box grows 4 px at
+  // the bottom, below the content area, so the stretch zones stay the same.
+  const badgeBox = (rim, h24) => {
+    const W = 26, H = h24 ? 24 : 20, LW = 2.5;
     const c = document.createElement('canvas');
     c.width = W; c.height = H;
     const x = c.getContext('2d');
@@ -450,6 +453,7 @@ async function init() {
     x.roundRect(LW / 2 + 0.5, LW / 2 + 0.5, W - LW - 1, H - LW - 1, 5);
     x.fillStyle = 'rgba(255,255,255,0.72)'; x.fill();
     x.lineWidth = LW; x.strokeStyle = rim; x.stroke();
+    if (h24) { x.fillStyle = '#000000'; x.fillRect(6, 17, 14, 3); }
     return x.getImageData(0, 0, W, H);
   };
   const addStopIcons = (m) => {
@@ -462,6 +466,7 @@ async function init() {
         pixelRatio: 2,
         stretchX: [[10, 16]], stretchY: [[8, 12]], content: [6, 4, 20, 16],
       });
+      m.addImage('badgeh-' + c, badgeBox(c, true), { pixelRatio: 2, stretchX: [[10, 16]], stretchY: [[8, 12]], content: [6, 4, 20, 16] });
     }
     // Safety net: a line color the palette misses must never strip a badge of
     // its box or a station of its dot again — generate the icon on demand,
@@ -469,11 +474,11 @@ async function init() {
     const darken = (hex) => '#' + (hex.match(/[0-9a-f]{2}/gi) || [])
       .map((h) => Math.round(parseInt(h, 16) * 0.45).toString(16).padStart(2, '0')).join('');
     m.on('styleimagemissing', (e) => {
-      const g = /^(stop|dot|badge)-(#[0-9a-f]{6})(-t)?$/.exec(e.id);
+      const g = /^(stop|dot|badgeh|badge)-(#[0-9a-f]{6})(-t)?$/.exec(e.id);
       if (!g || m.hasImage(e.id)) return;
       const [, kind, c, t] = g;
-      if (kind === 'badge') {
-        m.addImage(e.id, badgeBox(c), {
+      if (kind === 'badge' || kind === 'badgeh') {
+        m.addImage(e.id, badgeBox(c, kind === 'badgeh'), {
           pixelRatio: 2,
           stretchX: [[10, 16]], stretchY: [[8, 12]], content: [6, 4, 20, 16],
         });
@@ -575,6 +580,9 @@ async function init() {
   // that would collide at that scale into one complex, so only the band matching
   // the current zoom is drawn.
   map.addSource('badges', { type: 'geojson', data: 'data/badges.geojson' });
+  // lines running round the clock (meta.json h24): their terminus badges carry
+  // the black under-bar
+  const H24_LINES = (meta.lines || []).filter((l) => l.h24).map((l) => l.line);
   const BADGE_BANDS = meta.badgeBands || [[13, 14], [14, 15], [15, 16.5], [16.5, 22]];
   // legacy data without `band` passes every band filter — the disjoint zoom
   // ranges still draw it exactly once, so a stale badges.geojson degrades to the
@@ -603,7 +611,7 @@ async function init() {
         // drift against icon-text-fit)
         'text-size': ['*', BADGE_EM[b] ?? 10, ['coalesce', ['get', 'sc'], 1]],
         'text-offset': ['get', 'off'],
-        'icon-image': ['concat', 'badge-', ['coalesce', ['get', 'color'], KMK]],
+        'icon-image': ['concat', ['case', ['in', ['get', 'line'], ['literal', H24_LINES]], 'badgeh-', 'badge-'], ['coalesce', ['get', 'color'], KMK]],
         'icon-text-fit': 'both',
         // top/bottom padding is deliberately uneven: the text box MapLibre fits
         // the icon around includes descender space digits never use (~0.12 em),
