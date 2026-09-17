@@ -7,7 +7,7 @@ Ilfov operators — ~200 lines drawn along the real street and track geometry.
 
 ## Live
 
-**https://miqell24.github.io/bucharest-bus-map/** — GitHub Pages from `main:/docs`.
+**https://agcghub.github.io/bucharest-bus-map/** — GitHub Pages from `main:/docs`.
 
 Everything comes from ONE feed — the TPBI regional GTFS bundle
 (https://gtfs.tpbi.ro/regional/) — split by `route_type` at build time:
