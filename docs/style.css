@@ -387,6 +387,8 @@ details.journey .beta {
 .city-switch nav .city-filter:focus { outline: none; border-color: var(--kmk); box-shadow: 0 0 0 2px rgba(0, 89, 169, 0.2); }
 @media (pointer: coarse) { .city-switch nav .city-filter { font-size: 16px; } }
 
-/* 24/7 lines: the number underlined in black (user 17.09.2026) */
-.chip.h24 { text-decoration: underline; text-decoration-color: #000; text-decoration-thickness: 3px; text-underline-offset: 3px; text-decoration-skip-ink: none; }
-.legend .chip.h24.demo { cursor: default; padding: 0 6px; margin-right: 4px; }
+/* 24/7 lines: a black + after the number (18.09.2026; on the map the street rows
+   print "100 +", the chip carries the same mark as a black tab) */
+.chip.h24 .plus { margin-left: .3em; color: #000; font-weight: 800; text-shadow: 0 0 2px #fff, 0 0 2px #fff, 0 0 1px #fff; }
+.legend .h24demo { display: inline-block; font-weight: 700; margin-right: 6px; white-space: nowrap; }
+.legend .h24demo .plus { color: #000; }

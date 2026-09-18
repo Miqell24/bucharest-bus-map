@@ -61,4 +61,4 @@ base map © OpenFreeMap / OpenMapTiles / OpenStreetMap contributors.
 
 ## 17.09.2026 — requested fixes
 
-- **24/7 lines underlined.** Lines running round the clock carry `h24` in `meta.json` (here the 100 airport express); the panel chip and the terminus badges underline the number in black, the PDF export too.
+- **24/7 lines underlined.** Lines running round the clock carry `h24` in `meta.json` (here the 100 airport express); the panel chip and the terminus badges underline the number in black, the PDF export too. **18.09.2026:** the mark is now a black `+` after the number, one space away (`100 +`) — the street rows could not carry an underline (MapLibre has no text decoration), and the rows are where a reader meets the number. One mark everywhere: the rows (sectioned by `pipeline/h24.mjs`, the last post-pass), the terminus badges, the panel chips (a black tab), the stop popups, the legend and the PDF export.

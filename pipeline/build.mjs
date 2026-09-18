@@ -35,7 +35,8 @@ const TROLLEY_DARK = '#0a5121';
 const MLINE_YELLOW = '#e8a000';
 const MLINE_DARK = '#7d5600';
 
-// Lines that run round the clock (meta.json h24, underlined in black on the map)
+// Lines that run round the clock (meta.json h24): a black "+" after the number,
+// everywhere the number prints (18.09.2026; 17.09 it was a black underline)
 const H24 = new Set(['bus|100']);
 const t0 = Date.now();
 const log = (m) => console.log(`[${((Date.now() - t0) / 1000).toFixed(1)}s] ${m}`);
@@ -1576,3 +1577,7 @@ await (await import('./night.mjs')).nightPass(outDir, /^N\d/, { sort: true });
 // …and a liveried line keeps its own colour in the number rows, even where it
 // shares a corridor with another one (user rule, 9.09.2026): see railrows.mjs.
 await (await import('./railrows.mjs')).railRowPass(outDir, /^N\d/, { log });
+// Lines running round the clock print a black "+" after their number in the
+// street rows (user 18.09.2026; the underline of 17.09 could not be drawn
+// there): the LAST post-pass, see h24.mjs.
+(await import('./h24.mjs')).h24Pass(outDir, H24, { log });
